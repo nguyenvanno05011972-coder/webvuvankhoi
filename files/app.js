@@ -20,17 +20,22 @@ const apps = [
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 26/09/2025'
     },
     {
-        name: 'Krnl VN ✅',
-        url: 'https://nhapcode1s.com/nb0YQkX',
-        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 26/09/2025'
+        name: 'DeltaVN Font Mới ✅',
+        url: 'https://nhapcode1s.com/nbgUqaY',
+        img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
+        descriptions: 'Link Cài Trực Tiếp'
     },
     {
-        name: 'DeltaVN ✅',
+        name: 'DeltaVN Siêu Fix Lag ✅',
         url: 'https://nhapcode1s.com/nbxlEZ1',
-        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 26/9/2025'
-    },{
+        img: 'https://i.postimg.cc/BZxz4nSb/Facebook-creation-BE4-E192-E-1-E59-4093-A3-D9-25397-E23142-D.jpg',
+        descriptions: 'Link Cài Trực Tiếp'
+    },{    
+        name: 'KrnlVN Font Mới ✅',
+        url: 'https://nhapcode1s.com/nb0YQkX',
+        img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
+        descriptions: 'Link Cài Trực Tiếp'
+    },
         name: 'File iPA Liên Quân',
         url: 'https://nhapcode1s.com/nbWMxd5',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',

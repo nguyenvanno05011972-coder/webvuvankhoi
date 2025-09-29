@@ -23,19 +23,19 @@ const apps = [
         name: 'DeltaVN Font Mới ✅',
         url: 'https://nhapcode1s.com/nbgUqaY',
         img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
-        descriptions: 'Link Cài Trực Tiếp'
+        descriptions: 'Link Cài Trực Tiếp V692'
     },
     {
         name: 'DeltaVN Siêu Fix Lag ✅',
         url: 'https://nhapcode1s.com/nbxlEZ1',
         img: 'https://i.postimg.cc/BZxz4nSb/Facebook-creation-BE4-E192-E-1-E59-4093-A3-D9-25397-E23142-D.jpg',
-        descriptions: 'Link Cài Trực Tiếp'
+        descriptions: 'Link Cài Trực Tiếp V692'
     },
     {    
         name: 'KrnlVN Font Mới ✅',
         url: 'https://nhapcode1s.com/nb0YQkX',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Link Cài Trực Tiếp'
+        descriptions: 'Link Cài Trực Tiếp V692'
     },
     {   
         name: 'File iPA Liên Quân',

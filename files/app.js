@@ -21,9 +21,9 @@ const apps = [
     },
     {
         name: 'DeltaVN Font Mới ✅',
-        url: 'https://nhapcode1s.com/nbgUqaY',
+        url: '',
         img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
-        descriptions: 'Link Cài Trực Tiếp V692'
+        descriptions: 'Link Cài Trực Tiếp V692 Đang Update'
     },
     {
         name: 'DeltaVN Siêu Fix Lag ✅',

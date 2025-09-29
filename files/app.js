@@ -30,7 +30,8 @@ const apps = [
         url: 'https://nhapcode1s.com/nbxlEZ1',
         img: 'https://i.postimg.cc/BZxz4nSb/Facebook-creation-BE4-E192-E-1-E59-4093-A3-D9-25397-E23142-D.jpg',
         descriptions: 'Link Cài Trực Tiếp'
-    },{    
+    },
+    {    
         name: 'KrnlVN Font Mới ✅',
         url: 'https://nhapcode1s.com/nb0YQkX',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',

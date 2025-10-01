@@ -35,18 +35,18 @@ const apps = [
         name: 'KrnlVN Font Mới ✅',
         url: 'https://nhapcode1s.com/nb0YQkX',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Link Cài Trực Tiếp V692'
+        descriptions: 'Link Cài Trực Tiếp V692 Update Ngày 1/10/2025'
     },
-    {   
-        name: 'File iPA Liên Quân',
-        url: 'https://nhapcode1s.com/nbWMxd5',
-        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 26/09/2025'
+      {
+        name: 'File iPA Delta VNG V692',
+        url: 'https://nhapcode1s.com/nbXiiJl',
+        img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
+        descriptions: 'Cập Nhật Ngày 1/10/2025'
     },{
-        name: 'File iPA Roblox',
-        url: 'https://nhapcode1s.com/nbcsnlI',
-        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Krnl VN Và Delta VN Cập Nhật Ngày 26/09/2025'
+        name: 'File iPA KRNL VNG V692',
+        url: 'https://nhapcode1s.com/nbgKD0h',
+        img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
+        descriptions: 'Cập Nhật Ngày 1/10/2025'
     },
 ];
 

@@ -38,12 +38,12 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V692 Update Ngày 1/10/2025'
     },
       {
-        name: 'File iPA Delta VNG V692',
+        name: 'File IPA Delta VNG V692',
         url: 'https://nhapcode1s.com/nbXiiJl',
         img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
         descriptions: 'Cập Nhật Ngày 1/10/2025'
     },{
-        name: 'File iPA KRNL VNG V692',
+        name: 'File IPA KRNL VNG V692',
         url: 'https://nhapcode1s.com/nbgKD0h',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
         descriptions: 'Cập Nhật Ngày 1/10/2025'

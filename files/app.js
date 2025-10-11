@@ -1,5 +1,9 @@
 // APP DATA CONFIGURATION
 
+<div style="display: flex;justify-content: center;"><div id="container_abcxyz00"></div></div>
+<script src="https://nhapcode1s.com/js/scriptnc1s.js" defer=""></script>
+
+
 const apps = [
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',

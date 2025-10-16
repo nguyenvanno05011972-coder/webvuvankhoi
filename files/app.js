@@ -15,33 +15,38 @@ const apps = [
     },
     {
         name: 'TrollStore X ✅',
-        url: 'https://nhapcode1s.com/nbFY4Y1',
+        url: 'https://nhapcode1s.com/nbVkmpd',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 26/09/2025'
     },
     {
         name: 'DeltaVN Font Mới ✅',
-        url: 'https://nhapcode1s.com/nb01t3F',
+        url: 'https://nhapcode1s.com/nbHYt3e',
         img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
-        descriptions: 'Link Cài Trực Tiếp V692 Update Ngày 1/10/2025'
+        descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 16/10/2025'
     },
 
     {    
         name: 'KrnlVN Font Mới ✅',
-        url: 'https://nhapcode1s.com/nb0YQkX',
+        url: 'https://nhapcode1s.com/nbF8Utu',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Link Cài Trực Tiếp V692 Update Ngày 1/10/2025'
+        descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 16/10/2025'
+    },{    
+        name: 'KrnlVN LITE ✅',
+        url: 'https://nhapcode1s.com/nbuRNM9',
+        img: 'https://i.postimg.cc/Kc6Zfpyz/IMG-20251009-162419.jpg',
+        descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 16/10/2025'
     },
       {
-        name: 'File IPA Delta VNG V692',
+        name: 'File IPA Delta VNG V694',
         url: 'https://nhapcode1s.com/nbXiiJl',
         img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
-        descriptions: 'Cập Nhật Ngày 1/10/2025'
+        descriptions: 'Cập Nhật Ngày 16/10/2025'
     },{
-        name: 'File IPA KRNL VNG V692',
+        name: 'File IPA KRNL VNG V694',
         url: 'https://nhapcode1s.com/nbgKD0h',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Cập Nhật Ngày 1/10/2025'
+        descriptions: 'Cập Nhật Ngày 16/10/2025'
     },
 ];
 

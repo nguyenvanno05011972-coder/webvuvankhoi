@@ -56,7 +56,12 @@ const apps = [
 ];
 
 const ksignApps = [
-    {
+        {
+        name: 'KSign New Cert  ✅',
+        url: 'https://api.khoindvn.io.vn/9jOxw6',
+        img: 'https://vuvankhoi.com/files/ksign.png',
+        descriptions: 'China Telecommunications Corporation'   
+    },{
         name: 'KSign V3 China ✅',
         url: 'https://loadly.io/6dFQMxip',
         img: 'https://vuvankhoi.com/files/ksign.png',

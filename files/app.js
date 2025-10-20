@@ -62,22 +62,22 @@ const ksignApps = [
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
-        name: 'KSign V3 China ✅',
+        name: 'KSign V3 China ',
         url: 'https://loadly.io/6dFQMxip',
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
-        name: 'KSign V2 China ✅',
+        name: 'KSign V2 China ',
         url: 'https://loadly.io/bfRwXm8B',
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
-        name: 'KSign V1 China ✅',
+        name: 'KSign V1 China ',
         url: 'https://loadly.io/rFb2pKw8',
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
-        name: 'KSign ✅',
+        name: 'KSign ',
         url: 'https://loadly.io/AOk7uhFE',
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'China Telecommunications Corporation'   

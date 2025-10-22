@@ -59,7 +59,7 @@ const ksignApps = [
     {
         name: 'ESign New Cert  ✅',
         url: 'https://api.khoindvn.io.vn/qylEe1',
-        img: 'https://vuvankhoi.com/files/ksign.png',
+        img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
         name: 'KSign New Cert  ✅',

@@ -20,25 +20,25 @@ const apps = [
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 20/10/2025'
     },    {
         name: '<strong><em>DeltaVN LITE ✅</em></strong>',
-        url: 'https://nhapcode1s.com/nbwgFE0',
+        url: 'https://nhapcode1s.com/nbAiw7L',
         img: 'https://sf-static.upanhlaylink.com/img/image_2025101696e5b5e6773672abba5b1e733c721032.jpg',
         descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 20/10/2025'
     },
     {
         name: '<strong><em>DeltaVN Font Mới ✅</em></strong>',
-        url: 'https://nhapcode1s.com/nb01t3F',
+        url: 'https://nhapcode1s.com/nbRACqR',
         img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
         descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 20/10/2025'
     },
 
     {    
         name: '<strong><em>KrnlVN Font Mới ✅</em></strong>',
-        url: 'https://nhapcode1s.com/nb0YQkX',
+        url: 'https://nhapcode1s.com/nbGAO17',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
         descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 20/10/2025'
     },{    
         name: '<strong><em>KrnlVN LITE ✅</em></strong>',
-        url: 'https://nhapcode1s.com/nbJ7F45',
+        url: 'https://nhapcode1s.com/nbvVTL1',
         img: 'https://i.postimg.cc/Kc6Zfpyz/IMG-20251009-162419.jpg',
         descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 20/10/2025'
     },

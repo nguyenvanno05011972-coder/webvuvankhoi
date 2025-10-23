@@ -2,42 +2,42 @@
 
 const apps = [
     {
-        name: '__𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map__ ✅ ',
+        name: '<strong><em>Hack Map Liên Quân Full Chức Năng ✅</em></strong>',
         url: 'https://nhapcode1s.com/nb3mumv',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 23/10/2025'
     },
     {
-        name: 'KEY HACK MAP LIÊN QUÂN 30 NGÀY ✅',
+        name: '<strong><em>KEY HACK Liên Quân Mobile 30 NGÀY ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbzChcI',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Lấy Key LQ 30 Ngày cập nhật Ngày 23/10/2025'
     },
     {
-        name: 'TrollStore X ✅',
+        name: '<strong><em>Troll Store X ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbFY4Y1',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 20/10/2025'
     },    {
-        name: 'DeltaVN LITE ✅',
+        name: '<strong><em>DeltaVN LITE ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbwgFE0',
         img: 'https://sf-static.upanhlaylink.com/img/image_2025101696e5b5e6773672abba5b1e733c721032.jpg',
         descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 20/10/2025'
     },
     {
-        name: 'DeltaVN Font Mới ✅',
+        name: '<strong><em>DeltaVN Font Mới ✅</em></strong>',
         url: 'https://nhapcode1s.com/nb01t3F',
         img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
         descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 20/10/2025'
     },
 
     {    
-        name: 'KrnlVN Font Mới ✅',
+        name: '<strong><em>KrnlVN Font Mới ✅</em></strong>',
         url: 'https://nhapcode1s.com/nb0YQkX',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
         descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 20/10/2025'
     },{    
-        name: 'KrnlVN LITE ✅',
+        name: '<strong><em>KrnlVN LITE ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbJ7F45',
         img: 'https://i.postimg.cc/Kc6Zfpyz/IMG-20251009-162419.jpg',
         descriptions: 'Link Cài Trực Tiếp V694 Update Ngày 20/10/2025'

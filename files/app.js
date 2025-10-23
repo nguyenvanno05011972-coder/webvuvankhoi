@@ -2,7 +2,7 @@
 
 const apps = [
     {
-        name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
+        name: '**𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map** ✅ ',
         url: 'https://nhapcode1s.com/nb3mumv',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 23/10/2025'

@@ -9,7 +9,7 @@ const apps = [
     },
     {
         name: 'KEY HACK MAP LIÊN QUÂN 30 NGÀY ✅',
-        url: 'https://nhapcode1s.com/nbt8Bvy',
+        url: 'https://nhapcode1s.com/nbzChcI',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Lấy Key LQ 30 Ngày cập nhật Ngày 23/10/2025'
     },

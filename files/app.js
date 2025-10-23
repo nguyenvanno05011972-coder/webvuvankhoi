@@ -5,13 +5,13 @@ const apps = [
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
         url: 'https://nhapcode1s.com/nbt8Bvy',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật Ngày 20/10/2025'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 23/10/2025'
     },
     {
-        name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Mod Skin ✅',
+        name: 'KEY HACK MAP LIÊN QUÂN 30 NGÀY ✅',
         url: 'https://nhapcode1s.com/nbt8Bvy',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Bản Mod Skin Update antiband cập nhật Ngày 20/10/2025'
+        descriptions: 'Link Lấy Key LQ 30 Ngày cập nhật Ngày 23/10/2025'
     },
     {
         name: 'TrollStore X ✅',

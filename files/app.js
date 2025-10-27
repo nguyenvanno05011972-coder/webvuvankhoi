@@ -56,13 +56,19 @@ const apps = [
 ];
 
 const ksignApps = [
+   {
+        name: 'KSign New Cert ✅ ',
+        url: 'https://api.khoindvn.io.vn/6rkpFX',
+        img: 'https://vuvankhoi.com/files/ksign.png',
+        descriptions: 'Guangzhou Huahan Educational & Technology Co.,Ltd.'   
+    },
     {
-        name: 'ESign New Cert  ✅',
+        name: 'ESign New Cert  ',
         url: 'https://api.khoindvn.io.vn/qylEe1',
         img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
-        name: 'KSign New Cert  ✅',
+        name: 'KSign New Cert  ',
         url: 'https://api.khoindvn.io.vn/9jOxw6',
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'China Telecommunications Corporation'   

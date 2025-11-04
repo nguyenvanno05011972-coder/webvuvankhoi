@@ -13,7 +13,7 @@ const apps = [
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 4/11/2025'
     },    {
-        name: '<strong><em>DeltaVN LITE ✅</em></strong>',
+        name: '<strong><em>DeltaVN Fix Lag ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbAiw7L',
         img: 'https://sf-static.upanhlaylink.com/img/image_2025101696e5b5e6773672abba5b1e733c721032.jpg',
         descriptions: 'Đang Update'

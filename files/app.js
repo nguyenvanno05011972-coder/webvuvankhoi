@@ -22,7 +22,7 @@ const apps = [
         name: '<strong><em>DeltaVN Font Mới ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbRACqR',
         img: 'https://i.postimg.cc/4xKTfS8k/IMG-20250913-195708.jpg',
-        descriptions: 'Link Cài Trực Tiếp V697 Update Ngày 4/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V697 Update Ngày 5/11/2025'
     },
 
     {    

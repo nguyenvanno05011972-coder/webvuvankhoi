@@ -5,44 +5,44 @@ const apps = [
         name: '<strong><em> Hack Map Liên Quân NO KEY Full Chức Năng ✅</em></strong>',
         url: 'https://nhapcode1s.com/nb3mumv',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 5/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 6/11/2025'
     },
     {
         name: '<strong><em>Troll Store X ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbFY4Y1',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 5/11/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 6/11/2025'
     },    {
         name: '<strong><em>DeltaVN Font Minecraft ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbAiw7L',
         img: 'https://sf-static.upanhlaylink.com/img/image_2025101696e5b5e6773672abba5b1e733c721032.jpg',
-        descriptions: 'Link Cài Trực Tiếp V697 Update Ngày 5/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V697 Update Ngày 6/11/2025'
     },{    
         name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbGAO17',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Link Cài Trực Tiếp V697 Update Ngày 5/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V697 Update Ngày 6/11/2025'
     },{
         name: '<strong><em>IPA DELTA X VNG IOS V697 ✅</em></strong>',
         url: 'https://nhapcode1s.com/nb959Vb',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 5/11/2025'
+        descriptions: 'Cập Nhật Ngày 6/11/2025'
     },{
         name: '<strong><em> IPA KRNL VNG IOS V697 ✅</em></strong>',
         url: 'https://nhapcode1s.com/nb51gNr',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 5/11/2025'
+        descriptions: 'Cập Nhật Ngày 6/11/2025'
     },
       {
         name: '<strong><em>DELTA X VNG ANDROI V697 ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbsQY6Z',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 5/11/2025'
+        descriptions: 'Cập Nhật Ngày 6/11/2025'
     },{
         name: '<strong><em>KRNL VNG ANDROI V697 NO KEY ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbXwbV8',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 5/11/2025'
+        descriptions: 'Cập Nhật Ngày 6/11/2025'
     },
 ];
 

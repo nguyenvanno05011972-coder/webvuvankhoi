@@ -47,6 +47,18 @@ const apps = [
 ];
 
 const ksignApps = [
+        {
+        name: 'ESign V2 ✅ ',
+        url: 'https://nhapcode1s.com/api/KQZMKG',
+        img: 'https://vuvankhoi.com/files/profile-pic.png',
+        descriptions: 'GLOBAL TAKEOFF, INC'   
+    },
+        {
+        name: 'ESign V1 ✅ ',
+        url: 'https://nhapcode1s.com/api/nk4nJT',
+        img: 'https://vuvankhoi.com/files/profile-pic.png',
+        descriptions: 'GLOBAL TAKEOFF, INC'   
+    },
   {
         name: 'KSign V2 ✅',
         url: 'https://api.khoindvn.io.vn/7wr6sg',

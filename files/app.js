@@ -2,10 +2,10 @@
 
 const apps = [
         {
-        name: '<strong><em> IPA Quán Phở Anh Hai ✅</em></strong>',
-        url: 'https://nhapcode1s.com/nbpOCSf',
+        name: '<strong><em> Quán Phở Anh Hai ✅</em></strong>',
+        url: 'https://sub2s.com/1762959192',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511096c9b69aee517d00a57c708e5023d9df3.jpg',
-        descriptions: 'Link Tải IPA Cập Nhật Ngày 12/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 12/11/2025'
     },
     {
         name: '<strong><em> Hack Map Liên Quân NO KEY Full Chức Năng ✅</em></strong>',

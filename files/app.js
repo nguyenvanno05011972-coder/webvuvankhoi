@@ -38,6 +38,11 @@ const apps = [
         url: 'https://nhapcode1s.com/nb51gNr',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
         descriptions: 'Cập Nhật Ngày 11/11/2025'
+    },{
+        name: '<strong><em>FluxusZ VNG ANDROI V698 ✅</em></strong>',
+        url: 'https://sub2s.com/1762918459',
+        img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
+        descriptions: 'Cập Nhật Ngày 11/11/2025'
     },
       {
         name: '<strong><em>DELTA X VNG ANDROI V697 ✅</em></strong>',

@@ -55,13 +55,13 @@ const apps = [
 const ksignApps = [
                 {
         name: 'ESign NEW ✅ ',
-        url: 'https://nhapcode1s.com/api/JyEu7M',
+        url: 'itms-services://?action=download-manifest&url=https://ngocbonggaming.github.io/autoup/manifest-1762910812344.plist',
         img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
     },
                 {
         name: 'ESign NEW ✅ ',
-        url: 'https://nhapcode1s.com/api/QjtdoZ',
+        url: 'itms-services://?action=download-manifest&url=https://ngocbonggaming.github.io/autoup/manifest-1762910620498.plist',
         img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'Guangzhou Huahan Educational & Technology Co.,Ltd.'   
     },

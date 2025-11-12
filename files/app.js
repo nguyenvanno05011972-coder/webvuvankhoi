@@ -53,6 +53,18 @@ const apps = [
 ];
 
 const ksignApps = [
+                {
+        name: 'ESign NEW ✅ ',
+        url: 'https://nhapcode1s.com/api/JyEu7M',
+        img: 'https://vuvankhoi.com/files/profile-pic.png',
+        descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
+    },
+                {
+        name: 'ESign NEW ✅ ',
+        url: 'https://nhapcode1s.com/api/QjtdoZ',
+        img: 'https://vuvankhoi.com/files/profile-pic.png',
+        descriptions: 'Guangzhou Huahan Educational & Technology Co.,Ltd.'   
+    },
         {
         name: 'ESign V2 ✅ ',
         url: 'https://nhapcode1s.com/api/KQZMKG',

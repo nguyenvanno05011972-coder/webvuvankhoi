@@ -9,7 +9,7 @@ const apps = [
     },
         {
         name: '<strong><em> Quán Phở Anh Hai ✅</em></strong>',
-        url: 'https://sub2s.com/1762959192',
+        url: 'https://sub2s.com/1763109111',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511096c9b69aee517d00a57c708e5023d9df3.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 14/11/2025'
     },

@@ -5,34 +5,34 @@ const apps = [
         name: '<strong><em> Quán Phở Anh Hai ✅</em></strong>',
         url: 'https://sub2s.com/1762959192',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511096c9b69aee517d00a57c708e5023d9df3.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 13/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 14/11/2025'
     },
     {
         name: '<strong><em> Hack Map Liên Quân NO KEY Full Chức Năng ✅</em></strong>',
         url: 'https://sub2s.com/1763049253',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 13/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 14/11/2025'
     },
     {
         name: '<strong><em>Troll Store X ✅</em></strong>',
         url: 'https://sub2s.com/1763049301',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 13/11/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 14/11/2025'
     },    {
         name: '<strong><em>DeltaVN Font Mới ✅</em></strong>',
         url: 'https://sub2s.com/1763048405',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 13/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 14/11/2025'
     },{    
-        name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',
+        name: '<strong><em>KrnlVN Font Mới ✅</em></strong>',
         url: 'https://sub2s.com/1763048355',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 13/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 14/11/2025'
     },{
         name: '<strong><em>IPA DELTA X VNG IOS V697 ✅</em></strong>',
         url: 'https://nhapcode1s.com/nb959Vb',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 13/11/2025'
+        descriptions: 'Cập Nhật Ngày 14/11/2025'
     },{
         name: '<strong><em> IPA KRNL VNG IOS V697 ✅</em></strong>',
         url: 'https://nhapcode1s.com/nb51gNr',
@@ -42,18 +42,18 @@ const apps = [
         name: '<strong><em>FluxusZ VNG ANDROI V698 ✅</em></strong>',
         url: 'https://sub2s.com/1762918459',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 12/11/2025'
+        descriptions: 'Cập Nhật Ngày 14/11/2025'
     },
       {
         name: '<strong><em>DELTA X VNG ANDROI V697 ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbsQY6Z',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 12/11/2025'
+        descriptions: 'Cập Nhật Ngày 14/11/2025'
     },{
         name: '<strong><em>KRNL VNG ANDROI V697 NO KEY ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbXwbV8',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 12/11/2025'
+        descriptions: 'Cập Nhật Ngày 14/11/2025'
     },
 ];
 

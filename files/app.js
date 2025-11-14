@@ -1,6 +1,12 @@
 // APP DATA CONFIGURATION
 
 const apps = [
+                {
+        name: '<strong><em> Hack Free Fire IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1763099403',
+        img: 'https://sf-static.upanhlaylink.com/img/image_2025111458eb92e66fd00d4e9916e31c28277e85.jpg',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 14/11/2025'
+    },
         {
         name: '<strong><em> Quán Phở Anh Hai ✅</em></strong>',
         url: 'https://sub2s.com/1762959192',

@@ -5,41 +5,47 @@ const apps = [
         name: '<strong><em> Hack Free Fire IOS ✅</em></strong>',
         url: 'https://sub2s.com/1763099403',
         img: 'https://sf-static.upanhlaylink.com/img/image_2025111458eb92e66fd00d4e9916e31c28277e85.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 14/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 16/11/2025'
     },
         {
         name: '<strong><em> Quán Phở Anh Hai ✅</em></strong>',
         url: 'https://sub2s.com/1763109111',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511096c9b69aee517d00a57c708e5023d9df3.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 14/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 16/11/2025'
     },
     {
         name: '<strong><em> Hack Map Liên Quân NO KEY Full Chức Năng ✅</em></strong>',
         url: 'https://sub2s.com/1763110334',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 14/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 16/11/2025'
     },
     {
         name: '<strong><em>Troll Store X ✅</em></strong>',
         url: 'https://sub2s.com/1763049301',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 14/11/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 16/11/2025'
     },    {
         name: '<strong><em>DeltaVN Font Mới ✅</em></strong>',
         url: 'https://sub2s.com/1763106937',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 15/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 16/11/2025'
     },{ 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
         url: 'https://sub2s.com/1763179368',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 15/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 16/11/2025'
     },{ 
       
         name: '<strong><em>KrnlVN Font Mới ✅</em></strong>',
+        url: 'https://sub2s.com/1763251885',
+        img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 16/11/2025'
+    },{ 
+      
+        name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',
         url: 'https://sub2s.com/1763106846',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 15/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 16/11/2025'
     },{
       
         name: '<strong><em>IPA DELTA X VNG IOS V697 ✅</em></strong>',

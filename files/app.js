@@ -26,24 +26,24 @@ const apps = [
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 16/11/2025'
     },    {
         name: '<strong><em>DeltaVN Font Mới ✅</em></strong>',
-        url: 'https://sub2s.com/1763106937',
+        url: 'https://sub2s.com/1763268158',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 16/11/2025'
     },{ 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1763179368',
+        url: 'https://sub2s.com/1763269020',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 16/11/2025'
     },{ 
       
         name: '<strong><em>KrnlVN Font Mới ✅</em></strong>',
-        url: 'https://sub2s.com/1763251885',
+        url: 'https://sub2s.com/1763267969',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
         descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 16/11/2025'
     },{ 
       
         name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1763106846',
+        url: 'https://sub2s.com/1763268506',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
         descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 16/11/2025'
     },{

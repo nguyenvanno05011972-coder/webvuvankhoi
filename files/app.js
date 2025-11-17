@@ -2,8 +2,8 @@
 
 const apps = [
                 {
-        name: '<strong><em> Hack Free Fire IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1763366850',
+        name: '<strong><em> Hack MENU Free Fire IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1763376030',
         img: 'https://sf-static.upanhlaylink.com/img/image_2025111458eb92e66fd00d4e9916e31c28277e85.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/11/2025'
     },

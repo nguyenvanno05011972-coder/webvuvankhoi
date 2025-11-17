@@ -3,21 +3,21 @@
 const apps = [
                 {
         name: '<strong><em> Hack Free Fire IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1763099403',
+        url: 'https://sub2s.com/1763366850',
         img: 'https://sf-static.upanhlaylink.com/img/image_2025111458eb92e66fd00d4e9916e31c28277e85.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 16/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/11/2025'
     },
         {
         name: '<strong><em> Quán Phở Anh Hai ✅</em></strong>',
-        url: 'https://sub2s.com/1763109111',
+        url: 'https://sub2s.com/1763366971',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511096c9b69aee517d00a57c708e5023d9df3.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 16/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/11/2025'
     },
     {
         name: '<strong><em> Hack Map Liên Quân NO KEY Full Chức Năng ✅</em></strong>',
-        url: 'https://sub2s.com/1763110334',
+        url: 'https://sub2s.com/1763366724',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 16/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 17/11/2025'
     },
     {
         name: '<strong><em>Troll Store X ✅</em></strong>',
@@ -34,7 +34,7 @@ const apps = [
         name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',
         url: 'https://sub2s.com/1763355348',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 16/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 17/11/2025'
     },{
       
         name: '<strong><em>IPA DELTA X VNG IOS V697 ✅</em></strong>',

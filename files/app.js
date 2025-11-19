@@ -53,7 +53,7 @@ const apps = [
         descriptions: 'Cập Nhật Ngày 14/11/2025'
     },
       {
-        name: '<strong><em>DELTA X VNG ANDROI V697 ✅</em></strong>',
+        name: '<strong><em>DELTA X VNG ANDROI V698 ✅</em></strong>',
         url: 'https://nhapcode1s.com/nbsQY6Z',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
         descriptions: 'Cập Nhật Ngày 14/11/2025'

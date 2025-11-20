@@ -1,12 +1,6 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-                {
-        name: '<strong><em> Hack MENU Free Fire IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1763376030',
-        img: 'https://sf-static.upanhlaylink.com/img/image_2025111458eb92e66fd00d4e9916e31c28277e85.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/11/2025'
-    },
         {
         name: '<strong><em> Quán Phở Anh Hai ✅</em></strong>',
         url: 'https://sub2s.com/1763366971',
@@ -25,6 +19,12 @@ const apps = [
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 17/11/2025'
     },{ 
+        name: '<strong><em>Clien Skibx VNG IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1763612338',
+        img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 17/11/2025'
+    },
+  { 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
         url: 'https://sub2s.com/1763355410',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',

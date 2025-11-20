@@ -22,13 +22,13 @@ const apps = [
         name: '<strong><em>Clien Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1763612338',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 17/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 20/11/2025'
     },
   { 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
         url: 'https://sub2s.com/1763355410',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 17/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 20/11/2025'
     },{ 
       
         name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',

@@ -47,8 +47,8 @@ const apps = [
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
         descriptions: 'Cập Nhật Ngày 22/11/2025'
     },{
-        name: '<strong><em>DELTA X VNG ANDROI V698 ✅</em></strong>',
-        url: 'https://nhapcode1s.com/nbsQY6Z',
+        name: '<strong><em>Fluxuz VNG ANDROI V698 ✅</em></strong>',
+        url: 'https://sub2s.com/1763799418',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
         descriptions: 'Cập Nhật Ngày 22/11/2025'
     },

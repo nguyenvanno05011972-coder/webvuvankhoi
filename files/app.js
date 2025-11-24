@@ -19,10 +19,15 @@ const apps = [
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 17/11/2025'
     },{ 
-        name: '<strong><em>Clien Skibx VNG IOS ✅</em></strong>',
+        name: '<strong><em>Skibx VNG Siêu Fix Lag ✅</em></strong>',
+        url: 'https://sub2s.com/1763996908',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20251124d3f711f0c1297d77954078361292f14a.jpg',
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 24/11/2025'
+    },{ 
+        name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1763772232',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 23/11/2025'
+        img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 24/11/2025'
     },{ 
         name: '<strong><em>DeltaVN Siêu Fix Lag ✅</em></strong>',
         url: 'https://sub2s.com/1763957772',

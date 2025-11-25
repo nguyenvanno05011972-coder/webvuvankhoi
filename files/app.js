@@ -20,9 +20,9 @@ const apps = [
     },
     {
         name: '<strong><em>Troll Store X ✅</em></strong>',
-        url: 'https://sub2s.com/1763049301',
+        url: 'https://sub2s.com/1764042583',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 17/11/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 25/11/2025'
     },{ 
         name: '<strong><em>Skibx VNG Siêu Fix Lag ✅</em></strong>',
         url: 'https://sub2s.com/1763996908',

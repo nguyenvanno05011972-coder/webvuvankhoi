@@ -52,7 +52,7 @@ const apps = [
     },{
       
         name: '<strong><em>IPA DELTA X VNG IOS V2.700 ✅</em></strong>',
-        url: 'https://sub2s.com/1764110503',
+        url: 'https://sub2s.com/1764124958',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
         descriptions: 'Cập Nhật Ngày 26/11/2025'
     },{

@@ -5,72 +5,72 @@ const apps = [
         name: '<strong><em> Hack Speed Câu Cá Vạn Cân ✅</em></strong>',
         url: 'https://sub2s.com/1764041630',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511257920e27952a2addce80b406789bfb978.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 02/12/2025'
     },{
         name: '<strong><em> Quán Phở Anh Hai ✅</em></strong>',
         url: 'https://sub2s.com/1763771985',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511096c9b69aee517d00a57c708e5023d9df3.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 02/12/2025'
     },
     {
         name: '<strong><em> Hack Map Liên Quân NO KEY Full Chức Năng ✅</em></strong>',
         url: 'https://sub2s.com/1763772164',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 25/11/2025'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 02/12/2025'
     },
     {
         name: '<strong><em>Troll Store X ✅</em></strong>',
         url: 'https://sub2s.com/1764042583',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 25/11/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 02/12/2025'
     },{ 
         name: '<strong><em>Skibx VNG Siêu Fix Lag ✅</em></strong>',
         url: 'https://sub2s.com/1763996908',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124d3f711f0c1297d77954078361292f14a.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.700 Update Ngày 26/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V2.700 Update Ngày 02/12/2025'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1763772232',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.700 Update Ngày 26/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V2.700 Update Ngày 02/12/2025'
     },{ 
         name: '<strong><em>DeltaVN Siêu Fix Lag ✅</em></strong>',
         url: 'https://sub2s.com/1763957772',
         img: 'https://sf-static.upanhlaylink.com/img/image_2025112480f23bac585e13c82db2053fa34ac240.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.700 Update Ngày 26/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V2.700 Update Ngày 02/12/2025'
     },{ 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
         url: 'https://sub2s.com/1763772293',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.700 Update Ngày 26/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V2.700 Update Ngày 02/12/2025'
     },{ 
       
         name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',
         url: 'https://sub2s.com/1763772344',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 25/11/2025'
+        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 02/12/2025'
     },{
       
         name: '<strong><em>IPA DELTA X VNG IOS V2.700 ✅</em></strong>',
         url: 'https://sub2s.com/1764124958',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 26/11/2025'
+        descriptions: 'Cập Nhật Ngày 02/12/2025'
     },{
-        name: '<strong><em>Codex VNG NO KEY ANDROI V699 ✅</em></strong>',
+        name: '<strong><em>Codex VNG NO KEY ANDROI V700 ✅</em></strong>',
         url: 'https://sub2s.com/1763789875',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 25/11/2025'
+        descriptions: 'Cập Nhật Ngày 02/12/2025'
     },{
-        name: '<strong><em>Fluxuz VNG ANDROI V699 ✅</em></strong>',
+        name: '<strong><em>Fluxuz VNG ANDROI V700 ✅</em></strong>',
         url: 'https://sub2s.com/1763799418',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 25/11/2025'
+        descriptions: 'Cập Nhật Ngày 02/12/2025'
     },
       {
         name: '<strong><em>DELTA X VNG ANDROI V2.700 ✅</em></strong>',
         url: 'https://sub2s.com/1763861254',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 25/11/2025'
+        descriptions: 'Cập Nhật Ngày 02/12/2025'
     },
 ];
 

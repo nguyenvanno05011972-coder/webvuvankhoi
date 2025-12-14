@@ -40,12 +40,12 @@ const apps = [
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 12/12/2025'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1763772232',
+        url: '',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 12/12/2025'
     },{ 
         name: '<strong><em>DeltaVN Siêu Fix Lag ✅</em></strong>',
-        url: 'https://sub2s.com/1763957772',
+        url: '',
         img: 'https://sf-static.upanhlaylink.com/img/image_2025112480f23bac585e13c82db2053fa34ac240.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 12/12/2025'
     },{ 

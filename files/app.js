@@ -40,7 +40,7 @@ const apps = [
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 12/12/2025'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: '',
+        url: 'https://sub2s.com/1765774670',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 12/12/2025'
     },{ 

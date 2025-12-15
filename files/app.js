@@ -44,11 +44,6 @@ const apps = [
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 12/12/2025'
     },{ 
-        name: '<strong><em>DeltaVN Siêu Fix Lag ✅</em></strong>',
-        url: '',
-        img: 'https://sf-static.upanhlaylink.com/img/image_2025112480f23bac585e13c82db2053fa34ac240.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 12/12/2025'
-    },{ 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
         url: 'https://sub2s.com/1763772293',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
@@ -85,42 +80,57 @@ const apps = [
 ];
 
 const ksignApps = [
-                {
-        name: 'ESign NEW ✅ ',
+                                 {
+        name: 'KSign New Cert ✅ ',
+        url: 'https://api.khoindvn.io.vn/PKTWlR',
+        img: 'https://vuvankhoi.com/files/ksign.png',
+        descriptions: 'Wasu Media & Network Co'   
+    }, {
+        name: 'KSign New Cert ✅',
+        url: 'https://api.khoindvn.io.vn/CGMj7s',
+        img: 'https://vuvankhoi.com/files/ksign.png',
+        descriptions: 'Luoyang Postal Administration'   
+    }, {
+        name: 'ESign New Cert ✅ ',
+        url: 'https://api.khoindvn.io.vn/kc3EGM',
+        img: 'https://vuvankhoi.com/files/profile-pic.png',
+        descriptions: 'Wasu Media & Network Co., Ltd'   
+    }, {
+        name: 'ESign NEW  ',
         url: 'itms-services://?action=download-manifest&url=https://ngocbonggaming.github.io/autoup/manifest-1762910812344.plist',
         img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
     },
                 {
-        name: 'ESign NEW ✅ ',
+        name: 'ESign NEW  ',
         url: 'itms-services://?action=download-manifest&url=https://ngocbonggaming.github.io/autoup/manifest-1762910620498.plist',
         img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'Guangzhou Huahan Educational & Technology Co.,Ltd.'   
     },
         {
-        name: 'ESign V2 ✅ ',
+        name: 'ESign V2  ',
         url: 'https://nhapcode1s.com/api/KQZMKG',
         img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },
         {
-        name: 'ESign V1 ✅ ',
+        name: 'ESign V1  ',
         url: 'https://nhapcode1s.com/api/nk4nJT',
         img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },
   {
-        name: 'KSign V2 ✅',
+        name: 'KSign V2 ',
         url: 'https://api.khoindvn.io.vn/7wr6sg',
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
     },{
-        name: 'KSign V1 ✅',
+        name: 'KSign V1 ',
         url: 'https://api.khoindvn.io.vn/4x22Dj',
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
     },  {
-        name: 'KSign ✅ ',
+        name: 'KSign  ',
         url: 'https://api.khoindvn.io.vn/7wr6sg',
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   

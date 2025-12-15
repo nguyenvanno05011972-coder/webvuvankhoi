@@ -16,11 +16,6 @@ const apps = [
         url: 'https://sub2s.com/1764041630',
         img: 'https://sf-static.upanhlaylink.com/img/image_202511257920e27952a2addce80b406789bfb978.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 13/12/2025'
-    },{
-        name: '<strong><em> Quán Phở Anh Hai ✅</em></strong>',
-        url: 'https://sub2s.com/1763771985',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202511096c9b69aee517d00a57c708e5023d9df3.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 02/12/2025'
     },
     {
         name: '<strong><em> Hack Map Liên Quân IOS NO KEY  ✅</em></strong>',

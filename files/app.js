@@ -7,6 +7,11 @@ const apps = [
         url: 'https://sub2s.com/1765901144',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512168b42655a46869ba4937b9819fb85f89e.jpg',
         descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 19/12/2025'
+    },                  {
+        name: '<strong><em> Free Fire IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1766134765',
+        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
+        descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 19/12/2025'
     }, 
                  {
         name: '<strong><em> Hack Menu Free Fire ANDROI ✅</em></strong>',

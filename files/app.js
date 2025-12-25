@@ -13,7 +13,7 @@ const apps = [
         name: '<strong><em> Hack CF Mobile ANDROI ✅</em></strong>',
         url: 'https://sub2s.com/1765901144',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512168b42655a46869ba4937b9819fb85f89e.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 21/12/2025'
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 25/12/2025'
     },                  {
         name: '<strong><em> Menu Migul FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1766134765',

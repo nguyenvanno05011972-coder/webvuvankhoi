@@ -63,7 +63,7 @@ const apps = [
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1765774670',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 25/12/2025'
+        descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 30/12/2025'
     },{ 
         name: '<strong><em>DeltaVN Siêu Fix Lag ✅</em></strong>',
         url: 'https://sub2s.com/1766123854',

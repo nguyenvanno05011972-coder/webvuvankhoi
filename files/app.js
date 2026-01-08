@@ -55,7 +55,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 08/01/2026'
     },{ 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1767861353',
+        url: 'https://sub2s.com/1767869021',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 08/01/2026'
     },{ 

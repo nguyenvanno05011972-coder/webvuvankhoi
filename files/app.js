@@ -52,12 +52,12 @@ const apps = [
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1767761625',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 07/01/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 08/01/2026'
     },{ 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1767783953',
+        url: 'https://sub2s.com/1767839233',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 07/01/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 08/01/2026'
     },{ 
       
         name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',

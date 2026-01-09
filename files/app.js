@@ -2,12 +2,6 @@
 
 const apps = [
 
-                                   {
-        name: 'ESign New Cert ✅ ',
-        url: 'https://nhapcode1s.com/api/u7Mmjs',
-        img: 'https://vuvankhoi.com/files/profile-pic.png',
-        descriptions: 'Commission on Elections'   
-    },
 
                      {
         name: '<strong><em> Hack CF Mobile IOS ✅</em></strong>',
@@ -55,13 +49,13 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 08/01/2026'
     },{ 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1767869021',
+        url: 'https://sub2s.com/1767934591',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 08/01/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.702 Update Ngày 09/01/2026'
     },{ 
       
         name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1763772344',
+        url: 'https://sub2s.com/1767934591',
         img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
         descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 02/12/2025'
     },{

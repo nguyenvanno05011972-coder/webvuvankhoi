@@ -7,10 +7,7 @@ const apps = [
         url: 'https://nhapcode1s.com/api/QFTFBn',
         img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'TCL household Appliance Marketing'   
-    },
-
-
-                     {
+    },{
         name: '<strong><em> Hack CF Mobile IOS ✅</em></strong>',
         url: 'https://toplinks.io/Pk1lPO7',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512168b42655a46869ba4937b9819fb85f89e.jpg',

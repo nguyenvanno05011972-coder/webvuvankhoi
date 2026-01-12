@@ -18,18 +18,18 @@ const apps = [
         name: '<strong><em> Hack CF Mobile ANDROI ✅</em></strong>',
         url: 'https://sub2s.com/1765901144',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512168b42655a46869ba4937b9819fb85f89e.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 27/12/2025'
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 12/01/2026'
     },                  {
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://toplinks.io/PjWKaFh',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 27/12/2025'
+        descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 12/01/2026'
     }, 
                  {
         name: '<strong><em> Hack Menu Free Fire ANDROI ✅</em></strong>',
         url: 'https://sub2s.com/1765587408',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 27/12/2025'
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 12/01/2026'
     },{
         name: '<strong><em> Hack Map LQ NO KEY IOS ✅</em></strong>',
         url: 'https://sub2s.com/1768190439',
@@ -39,13 +39,13 @@ const apps = [
         name: '<strong><em> Hack Map + Unlock Skin Androi ✅</em></strong>',
         url: 'https://sub2s.com/1765071083',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 08/01/2026'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 12/01/2026'
     },
     {
         name: '<strong><em>Troll Store X ✅</em></strong>',
-        url: 'https://sub2s.com/1764042583',
+        url: 'https://sub2s.com/1768219539',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 27/12/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 12/01/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1768188206',

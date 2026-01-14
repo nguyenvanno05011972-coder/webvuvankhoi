@@ -48,12 +48,12 @@ const apps = [
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 12/01/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://toplinks.io/PkvvHvU',
+        url: 'https://sub2s.com/1768390173',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.703 Update Ngày 14/01/2026'
     },{ 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
-        url: 'https://toplinks.io/PkvuduH',
+        url: 'https://sub2s.com/1768390204',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.703 Update Ngày 14/01/2026'
     },{ 

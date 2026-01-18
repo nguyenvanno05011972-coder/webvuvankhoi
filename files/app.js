@@ -304,14 +304,7 @@ const ksignApps = [
         url: 'https://loadly.io/XYvyFUF5',
         img: 'https://vuvankhoi.com/files/ksign.png',
         descriptions: 'VIETTEL GROUP'   
-    },
-    {
-        name: 'KSign VIETTEL GROUP V3',
-        url: 'https://loadly.io/yOvQTfs8',
-        img: 'https://vuvankhoi.com/files/pf/ksign.png',
-        descriptions: 'VIETTEL GROUP'   
-    },
-    {
+    },{
         name: 'KSign',
         url: 'https://loadly.io/6kFySVCG',
         img: 'https://vuvankhoi.com/files/ksign.png',

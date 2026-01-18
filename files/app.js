@@ -29,7 +29,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 18/01/2026'
     }, 
                  {
-        name: '<strong><em> Hack Menu Free Fire ANDROI ✅</em></strong>',
+        name: '<strong><em> Menu Hack Free Fire ANDROI ✅</em></strong>',
         url: 'https://sub2s.com/1768736549',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
         descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 18/01/2026'

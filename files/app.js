@@ -8,57 +8,62 @@ const apps = [
         img: 'https://vuvankhoi.com/files/profile-pic.png',
         descriptions: 'TCL household Appliance Marketing'   
     },{
+        name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1768787784',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 19/01/2026'
+    },{
         name: '<strong><em> Hack Cáu Cá Vạn Cân IOS ✅</em></strong>',
         url: 'https://sub2s.com/1768188919',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260112dfac00b4b8fe02694f54a087de80f17a.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 12/01/2026'
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 19/01/2026'
     },{
         name: '<strong><em> Hack CF Mobile IOS ✅</em></strong>',
         url: 'https://sub2s.com/1768736448',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512168b42655a46869ba4937b9819fb85f89e.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 18/01/2026'
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 19/01/2026'
     },{
         name: '<strong><em> Hack CF Mobile ANDROI ✅</em></strong>',
         url: 'https://sub2s.com/1768736328',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512168b42655a46869ba4937b9819fb85f89e.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 18/01/2026'
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 19/01/2026'
     },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://toplinks.io/PjWKaFh',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 18/01/2026'
+        descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 19/01/2026'
     }, 
                  {
         name: '<strong><em> Menu Hack Free Fire ANDROI ✅</em></strong>',
         url: 'https://sub2s.com/1768736549',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 18/01/2026'
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 19/01/2026'
     },{
         name: '<strong><em> Hack Map LQ NO KEY IOS ✅</em></strong>',
         url: 'https://sub2s.com/1768190439',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Update 12/01/2026'
+        descriptions: 'Link Cài Trực Tiếp Update 19/01/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin Androi ✅</em></strong>',
         url: 'https://sub2s.com/1765071083',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 12/01/2026'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 19/01/2026'
     },
     {
         name: '<strong><em>Troll Store X ✅</em></strong>',
         url: 'https://sub2s.com/1768219539',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 12/01/2026'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 19/01/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1768390173',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.703 Update Ngày 14/01/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.703 Update Ngày 19/01/2026'
     },{ 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
         url: 'https://sub2s.com/1768390204',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.703 Update Ngày 14/01/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.703 Update Ngày 19/01/2026'
     },{ 
       
         name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',

@@ -2,7 +2,12 @@
 
 const apps = [
 
-  {
+  { 
+        name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
+        url: 'https://sub2s.com/1769618322',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 29/01/2026'
+    },{
         name: 'ESign',
         url: 'https://tinyurl.com/4c45nnay',
         img: 'https://vuvankhoi.com/files/profile-pic.png',
@@ -57,11 +62,6 @@ const apps = [
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1768802233',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 27/01/2026'
-    },{ 
-        name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1768802912',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 27/01/2026'
     },{ 
       

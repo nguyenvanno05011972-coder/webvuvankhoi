@@ -4,7 +4,7 @@ const apps = [
 
   { 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1769731286',
+        url: 'https://sub2s.com/1769741204',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 30/01/2026'
     },{ 
@@ -12,6 +12,17 @@ const apps = [
         url: 'https://sub2s.com/1769731415',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 30/01/2026'
+    },{
+        name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
+        url: 'https://toplinks.io/PmCSA7D',
+        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
+        descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 30/01/2026'
+    }, 
+                 {
+        name: '<strong><em> Menu Hack Free Fire ANDROI ✅</em></strong>',
+        url: 'https://sub2s.com/1768736549',
+        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 30/01/2026'
     },{
         name: 'ESign',
         url: 'https://tinyurl.com/4c45nnay',
@@ -46,17 +57,6 @@ const apps = [
         name: '<strong><em> Hack CF Mobile ANDROI ✅</em></strong>',
         url: 'https://sub2s.com/1768736328',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512168b42655a46869ba4937b9819fb85f89e.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 27/01/2026'
-    },{
-        name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
-        url: 'https://toplinks.io/PjWKaFh',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 19/01/2026'
-    }, 
-                 {
-        name: '<strong><em> Menu Hack Free Fire ANDROI ✅</em></strong>',
-        url: 'https://sub2s.com/1768736549',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
         descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 27/01/2026'
     },{
         name: '<strong><em>Troll Store X ✅</em></strong>',

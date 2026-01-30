@@ -4,9 +4,14 @@ const apps = [
 
   { 
         name: '<strong><em>DeltaVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1769668144',
+        url: 'https://sub2s.com/1769731286',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 29/01/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 30/01/2026'
+    },{ 
+        name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1769731415',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 30/01/2026'
     },{
         name: 'ESign',
         url: 'https://tinyurl.com/4c45nnay',
@@ -58,11 +63,6 @@ const apps = [
         url: 'https://sub2s.com/1768219539',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 19/01/2026'
-    },{ 
-        name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1768802233',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 27/01/2026'
     },{ 
       
         name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',

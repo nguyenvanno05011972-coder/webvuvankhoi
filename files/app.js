@@ -2,7 +2,12 @@
 
 const apps = [
 
-  { 
+    { 
+        name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
+        url: '',
+        img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
+        descriptions: 'Chưa Update Xong - Sắp Có'
+    },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1770117522',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',

@@ -4,14 +4,14 @@ const apps = [
 
     { 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
-        url: '',
+        url: 'https://sub2s.com/1770503732',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
-        descriptions: 'Chưa Update Xong - Sắp Có'
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 08/02/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1770434238',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.706 Update Ngày 06/02/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.706 Update Ngày 08/02/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1769760182',

@@ -4,7 +4,7 @@ const apps = [
 
     { 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1770503732',
+        url: 'https://sub2s.com/1770538320',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
         descriptions: 'Link Cài Trực Tiếp -Update Ngày 08/02/2026'
     },{ 
@@ -14,9 +14,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.706 Update Ngày 08/02/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1769760182',
+        url: 'https://sub2s.com/1770538215',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.704 Update Ngày 30/01/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.706 Update Ngày 08/02/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
         url: 'https://sub2s.com/1770503959',

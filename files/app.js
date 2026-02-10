@@ -19,9 +19,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.707 Update Ngày 10/02/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1770538215',
+        url: 'https://sub2s.com/1770714033',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.707 Update Ngày 09/02/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.707 Update Ngày 10/02/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
         url: 'https://sub2s.com/1770700160',

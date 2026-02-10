@@ -9,9 +9,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 09/02/2026'
     },{ 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1770538320',
+        url: 'https://sub2s.com/1770698308',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 08/02/2026'
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 10/02/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1770434238',

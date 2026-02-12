@@ -14,7 +14,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp -Update Ngày 10/02/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1770434238',
+        url: 'https://sub2s.com/1770892851',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.707 Update Ngày 12/02/2026'
     },{ 

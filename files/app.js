@@ -3,6 +3,17 @@
 const apps = [
 
     {
+        name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1771134805',
+        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
+        descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 15/02/2026'
+    }, 
+                 {
+        name: '<strong><em> Menu Hack Free Fire ANDROI ✅</em></strong>',
+        url: 'https://sub2s.com/1768736549',
+        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 15/01/2026'
+    },{
         name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
         url: 'https://sub2s.com/1770606242',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
@@ -42,17 +53,6 @@ const apps = [
         url: 'https://sub2s.com/1769012214',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 14/02/2026'
-    },{
-        name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
-        url: 'https://nhapcode1s.com/nb3AGrV',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Link Cài Trực Tiếp Có Mục Tệp Cập Nhật Ngày 10/02/2026'
-    }, 
-                 {
-        name: '<strong><em> Menu Hack Free Fire ANDROI ✅</em></strong>',
-        url: 'https://sub2s.com/1768736549',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 30/01/2026'
     },{
         name: '<strong><em> Hack Cáu Cá Vạn Cân IOS ✅</em></strong>',
         url: 'https://sub2s.com/1768188919',

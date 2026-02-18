@@ -2,7 +2,17 @@
 
 const apps = [
 
-    {
+    { 
+        name: '<strong><em>Delta VNG IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1771380318',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.707 Update Ngày 18/02/2026'
+    },{ 
+        name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1771380402',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.707 Update Ngày 18/02/2026'
+    },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1771143501',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
@@ -33,16 +43,6 @@ const apps = [
         url: 'https://sub2s.com/1771033475',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
         descriptions: 'Link Cài Trực Tiếp -Update Ngày 14/02/2026'
-    },{ 
-        name: '<strong><em>Delta VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1770892851',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.707 Update Ngày 14/02/2026'
-    },{ 
-        name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1770890245',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.707 Update Ngày 14/02/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
         url: 'https://sub2s.com/1771031010',

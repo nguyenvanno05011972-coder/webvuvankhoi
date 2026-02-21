@@ -16,12 +16,12 @@ const apps = [
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1771380318',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.708 Update Ngày 20/02/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.708 Update Ngày 21/02/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1771380402',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.708 Update Ngày 20/02/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.708 Update Ngày 21/02/2026'
     },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1771143501',
@@ -47,12 +47,12 @@ const apps = [
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://sub2s.com/1770910071',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 14/02/2026'
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 21/02/2026'
     },{ 
         name: '<strong><em>Hack 8 Ball Pool Androi ✅</em></strong>',
         url: 'https://sub2s.com/1771033475',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 14/02/2026'
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 21/02/2026'
     },{
         name: '<strong><em> Hack Cáu Cá Vạn Cân IOS ✅</em></strong>',
         url: 'https://sub2s.com/1768188919',

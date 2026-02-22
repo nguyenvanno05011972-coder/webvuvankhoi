@@ -42,7 +42,7 @@ const apps = [
         name: '<strong><em> Hack FC Mobile Androi ✅</em></strong>',
         url: 'https://sub2s.com/1771033342',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 15/02/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 22/02/2026'
     },{ 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://sub2s.com/1770910071',

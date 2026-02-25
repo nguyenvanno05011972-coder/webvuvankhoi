@@ -3,6 +3,11 @@
 const apps = [
 
     { 
+        name: '<strong><em>Play Together ANDROI ✅</em></strong>',
+        url: 'https://sub2s.com/1772018412',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260225dbbe20db1835c74fe99e4ce778d0213c.jpg',
+        descriptions: 'Menu Full Chức Năng Update Ngày 25/02/2026'
+    },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1771911485',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',

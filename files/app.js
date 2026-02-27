@@ -9,7 +9,7 @@ const apps = [
         descriptions: 'Menu Full Chức Năng Update Ngày 25/02/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/3ma4zrtb',
+        url: 'https://sub2s.com/1772182176',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.709 Update Ngày 27/02/2026'
     },{ 

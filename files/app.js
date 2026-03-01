@@ -39,7 +39,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 27/02/2026'
     },{
         name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1772366407',
+        url: 'https://tinyurl.com/5xfdhapv',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 01/03/2026'
     },    {

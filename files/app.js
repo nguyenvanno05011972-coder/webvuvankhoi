@@ -9,14 +9,14 @@ const apps = [
         descriptions: 'Menu Full Chức Năng Update Ngày 25/02/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1772182176',
+        url: 'https://tinyurl.com/bdhnamk9',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.709 Update Ngày 27/02/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.709 Update Ngày 02/03/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1771996774',
+        url: 'https://tinyurl.com/9z32cbcs',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.709 UPDTAE Ngày 27/02/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.709 UPDTAE Ngày 02/03/2026'
     },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1771927139',

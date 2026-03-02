@@ -8,6 +8,11 @@ const apps = [
         img: 'https://sf-static.upanhlaylink.com/img/image_20260225dbbe20db1835c74fe99e4ce778d0213c.jpg',
         descriptions: 'Menu Full Chức Năng Update Ngày 25/02/2026'
     },{ 
+        name: '<strong><em>Delta VNG Fix Lag IOS ✅</em></strong>',
+        url: 'https://tinyurl.com/37dt6yrz',
+        img: 'https://sf-static.upanhlaylink.com/img/image_2026030220396b66d0eb107957a694b68f14f1c9.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.709 Update Ngày 02/03/2026'
+    },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
         url: 'https://tinyurl.com/bdhnamk9',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',

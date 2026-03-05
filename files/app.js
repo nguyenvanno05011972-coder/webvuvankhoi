@@ -14,9 +14,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.710 Update Ngày 04/03/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
-        url: 'https://ipa.downappx.vip/IwkFxH',
+        url: 'https://sub2s.com/1772715371',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.710 Update Ngày 04/03/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.710 Update Ngày 05/03/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://tinyurl.com/9z32cbcs',

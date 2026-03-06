@@ -3,7 +3,7 @@
 const apps = [
 { 
         name: '<strong><em>Delta VNG Fix Lag IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/yy2d2wh9',
+        url: 'https://tinyurl.com/bdyhsh36',
         img: 'https://sf-static.upanhlaylink.com/img/image_2026030220396b66d0eb107957a694b68f14f1c9.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.710 Update Ngày 06/03/2026'
     },{ 

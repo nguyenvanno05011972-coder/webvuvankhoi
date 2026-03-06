@@ -3,9 +3,9 @@
 const apps = [
 { 
         name: '<strong><em>Delta VNG Fix Lag IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/37dt6yrz',
+        url: 'https://toplinks.io/Pp0Rpha',
         img: 'https://sf-static.upanhlaylink.com/img/image_2026030220396b66d0eb107957a694b68f14f1c9.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.710 Update Ngày 04/03/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.710 Update Ngày 06/03/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
         url: 'https://toplinks.io/Pp0PkJO',
@@ -13,9 +13,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.710 Update Ngày 06/03/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/9z32cbcs',
+        url: 'https://funlink.io/Pp0T5fb',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.710 UPDTAE Ngày 04/03/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.710 UPDTAE Ngày 06/03/2026'
     },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1771927139',

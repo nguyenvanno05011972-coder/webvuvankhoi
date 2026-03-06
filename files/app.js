@@ -3,22 +3,22 @@
 const apps = [
 { 
         name: '<strong><em>Delta VNG Fix Lag IOS ✅</em></strong>',
-        url: 'https://dr.funlink.io/Pp1H5WZ',
+        url: 'https://sub2s.com/1772794191',
         img: 'https://sf-static.upanhlaylink.com/img/image_2026030220396b66d0eb107957a694b68f14f1c9.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.710 Update Ngày 06/03/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
-        url: 'https://toplinks.io/Pp0PkJO',
+        url: 'https://sub2s.com/1772794212',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.710 Update Ngày 06/03/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://funlink.io/Pp0T5fb',
+        url: 'https://sub2s.com/1772794234',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.710 UPDTAE Ngày 06/03/2026'
     },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
-        url: 'https://funlink.io/Pp0VqCO',
+        url: 'https://sub2s.com/1772794253',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 06/003/2026'
     },{
@@ -28,7 +28,7 @@ const apps = [
         descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 06/03/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
-        url: 'https://dr.funlink.io/Pp0X77P',
+        url: 'https://sub2s.com/1772794277',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Cài Trực Tiếp Update 06/03/2026'
     },{
@@ -38,17 +38,17 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 06/03/2026'
     },{
         name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/5xfdhapv',
+        url: 'https://sub2s.com/1772794105',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 01/03/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 06/03/2026'
     },    {
         name: '<strong><em> Hack FC Mobile Androi ✅</em></strong>',
         url: 'https://sub2s.com/1771033342',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 22/02/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 06/03/2026'
     },{ 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
-        url: 'https://dr.funlink.io/Pp1JKXW',
+        url: 'https://sub2s.com/1772794303',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
         descriptions: 'Link Cài Trực Tiếp -Update Ngày 06/03/2026'
     },{ 
@@ -56,21 +56,6 @@ const apps = [
         url: 'https://sub2s.com/1771033475',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
         descriptions: 'Link Cài Trực Tiếp -Update Ngày 06/03/2026'
-    },{
-        name: '<strong><em> Hack Cáu Cá Vạn Cân IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1768188919',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20260112dfac00b4b8fe02694f54a087de80f17a.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 19/01/2026'
-    },{
-        name: '<strong><em> Hack CF Mobile IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1768736448',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202512168b42655a46869ba4937b9819fb85f89e.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 19/01/2026'
-    },{
-        name: '<strong><em> Hack CF Mobile ANDROI ✅</em></strong>',
-        url: 'https://sub2s.com/1768736328',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202512168b42655a46869ba4937b9819fb85f89e.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 27/01/2026'
     },{
         name: '<strong><em>Troll Store X ✅</em></strong>',
         url: 'https://sub2s.com/1768219539',

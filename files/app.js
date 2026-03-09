@@ -48,9 +48,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 06/03/2026'
     },{ 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1772794303',
+        url: 'https://sub2s.com/1773055124',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 06/03/2026'
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 09/03/2026'
     },{ 
         name: '<strong><em>Hack 8 Ball Pool Androi ✅</em></strong>',
         url: 'https://sub2s.com/1771033475',

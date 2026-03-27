@@ -23,7 +23,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.712 Update Ngày 27/03/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1774412301',
+        url: 'https://tinyurl.com/23ppb9sw',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.712 UPDTAE Ngày 27/03/2026'
     },{

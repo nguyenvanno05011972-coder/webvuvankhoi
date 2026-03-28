@@ -13,7 +13,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 27/03/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
-        url: 'https://tinyurl.com/ykuccyhm',
+        url: 'https://tinyurl.com/3n3yzvc4',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.712 Update Ngày 27/03/2026'
     },{ 
@@ -23,7 +23,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.712 Update Ngày 27/03/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/23ppb9sw',
+        url: 'https://tinyurl.com/4raj86w8',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.712 UPDTAE Ngày 27/03/2026'
     },{

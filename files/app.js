@@ -32,6 +32,11 @@ const apps = [
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.716 Update Ngày 19/04/2026'
     },{ 
+        name: '<strong><em>Skibx VNG IOS Siêu Fix Lag ✅</em></strong>',
+        url: 'https://tinyurl.com/3tf49ubz',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260419f1541844f68b12fb180608c4d923f32e.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.716 UPDTAE Ngày 19/04/2026'
+    },{ 
         name: '<strong><em>Skibx VNG IOS ✅</em></strong>',
         url: 'https://tinyurl.com/5n89szmn',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',

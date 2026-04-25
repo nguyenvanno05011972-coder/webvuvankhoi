@@ -2,7 +2,7 @@
 
 const apps = [
 {
-        name: '<strong><em> Minecraft PE 26.3 IOS ✅</em></strong>',
+        name: '<strong><em> Minecraft PE 26.13 IOS ✅</em></strong>',
         url: 'https://sub2s.com/1777119929',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 24/04/2026'

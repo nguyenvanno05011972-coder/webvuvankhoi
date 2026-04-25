@@ -2,30 +2,35 @@
 
 const apps = [
 {
+        name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
+        url: 'https://ipas.cc/shvx8u',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/04/2026'
+    },{
         name: '<strong><em> Minecraft PE 26.13 IOS ✅</em></strong>',
         url: 'https://sub2s.com/1777119929',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 24/04/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/04/2026'
     },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2025/12/menu-hack-free-fire-androi-full-chuc.html',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 24/04/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/04/2026'
     },{
         name: '<strong><em> Menu Hack Free Fire ANDROI ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2026/04/link-tai-hack-free-fire-androi-vip-menu.html',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 24/04/2026'
+        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 25/04/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
         url: 'https://ipas.cc/kgg3ew',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 24/04/2026'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 25/04/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin Androi ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2026/04/hack-map-unlock-skin-lien-quan-androi.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 24/04/2026'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 25/04/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
         url: 'https://tinyurl.com/38kmk5va',
@@ -49,11 +54,6 @@ const apps = [
     },{
         name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
         url: 'https://ipas.cc/5y939k',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 04/04/2026'
-    },    {
-        name: '<strong><em> Hack FC Mobile Androi ✅</em></strong>',
-        url: 'https://sub2s.com/1771033342',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 04/04/2026'
     },{ 

@@ -2,6 +2,11 @@
 
 const apps = [
 {
+        name: '<strong><em> Minecraft  IOS ✅</em></strong>',
+        url: 'https://ipas.cc/2aexff',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 24/04/2026'
+    },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2025/12/menu-hack-free-fire-androi-full-chuc.html',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',

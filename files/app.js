@@ -25,12 +25,12 @@ const apps = [
         name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
         url: 'https://tinyurl.com/38kmk5va',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.716 Update Ngày 24/04/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.717 Update Ngày 25/04/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
         url: 'https://tinyurl.com/3jyc6a6w',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.716 Update Ngày 24/04/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.717 Update Ngày 25/04/2026'
     },{ 
         name: '<strong><em>Skibx VNG IOS Siêu Fix Lag ✅</em></strong>',
         url: 'https://tinyurl.com/3tf49ubz',

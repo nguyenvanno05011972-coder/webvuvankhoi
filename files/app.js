@@ -53,14 +53,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.716 UPDTAE Ngày 19/04/2026'
     },{ 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
-        url: 'https://ipas.cc/3d4qvs',
+        url: 'https://ipas.cc/gdwun4',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 04/04/2026'
-    },{ 
-        name: '<strong><em>Hack 8 Ball Pool Androi ✅</em></strong>',
-        url: 'https://sub2s.com/1771033475',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 04/04/2026'
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 25/04/2026'
     },{
         name: '<strong><em>Troll Store X ✅</em></strong>',
         url: 'https://sub2s.com/1768219539',

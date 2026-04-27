@@ -28,7 +28,7 @@ const apps = [
         descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 27/04/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
-        url: 'https://authtool.app/get-key?code=6b978976-3d4c-4c08-93ed-8d5e4d6cf1be',
+        url: 'https://www.ngocbonggaming.com/2025/12/hack-map-unlock-skin-lien-quan-full.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 27/04/2026'
     },{

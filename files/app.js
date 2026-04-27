@@ -3,17 +3,17 @@
 const apps = [
 { 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
-        url: 'https://ipas.cc/gdwun4',
+        url: 'https://sub2s.com/1777269962',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
         descriptions: 'Link Cài Trực Tiếp -Update Ngày 27/04/2026'
     },{
         name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1777176459',
+        url: 'https://sub2s.com/1777269946',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 27/04/2026'
     },{
         name: '<strong><em> Minecraft PE 26.13 IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1777119929',
+        url: 'https://sub2s.com/1777269926',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 27/04/2026'
     },{
@@ -38,7 +38,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 27/04/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
-        url: 'https://tinyurl.com/38kmk5va',
+        url: 'https://ipas.cc/ohblbd',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.717 Update Ngày 27/04/2026'
     },{ 

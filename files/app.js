@@ -2,6 +2,11 @@
 
 const apps = [
 { 
+        name: '<strong><em>HACK PUBG MOBILE IOS ✅</em></strong>',
+        url: 'https://www.ngocbonggaming.com/2026/04/link-tai-hack-pugb-mobile-ios-menu-vip.html',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260429379c41d9aaf4a816c969e28bac3e2660.jpg',
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 29/04/2026'
+    },{ 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://sub2s.com/1777269962',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',

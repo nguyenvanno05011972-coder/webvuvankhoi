@@ -8,12 +8,12 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.718 Update Ngày 02/05/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1777641953',
+        url: 'https://sub2s.com/1777680111',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.718 Update Ngày 02/05/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1777641895',
+        url: 'https://sub2s.com/1777680154',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 02/05/2026'
     },{

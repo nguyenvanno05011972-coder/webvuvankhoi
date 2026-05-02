@@ -5,7 +5,12 @@ const apps = [
         name: '<strong><em> Minecraft PE 26.13 IOS ✅</em></strong>',
         url: 'https://sub2s.com/1777702457',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 01/05/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 02/05/2026'
+    },{ 
+        name: '<strong><em>HACK PUBG MOBILE IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1777709739',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260429379c41d9aaf4a816c969e28bac3e2660.jpg',
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 02/05/2026'
     },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1777701207',
@@ -15,12 +20,12 @@ const apps = [
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://sub2s.com/1777702932',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 01/05/2026'
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 02/05/2026'
     },{
         name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
         url: 'https://sub2s.com/1777702700',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 01/05/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 02/05/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
         url: 'https://sub2s.com/1777680010',
@@ -45,12 +50,7 @@ const apps = [
         name: '<strong><em>HACK CFL MOBILE IOS ✅</em></strong>',
         url: 'https://sub2s.com/1777641975',
         img: 'https://sf-static.upanhlaylink.com/img/image_2026042910c2176070e8a50ade9fdd9eb23ff84e.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 01/05/2026'
-    },{ 
-        name: '<strong><em>HACK PUBG MOBILE IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1777641992',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20260429379c41d9aaf4a816c969e28bac3e2660.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 01/05/2026'
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 02/05/2026'
     },{
         name: '<strong><em> Menu Hack Free Fire ANDROI ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2026/04/link-tai-hack-free-fire-androi-vip-menu.html',

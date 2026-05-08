@@ -1,3 +1,19 @@
+{
+        name: '<strong><em> Menu FF IOS ?</em></strong>',
+        url: 'https://sub2s.com/1776913657',
+        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
+        descriptions: 'Link Cài Trực Tiếp Ngày 08/05/2026'
+    },{ 
+        name: '<strong><em>Delta VNG IOS Siêu Fix Lag ?</em></strong>',
+        url: 'https://sub2s.com/1777787162',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
+        descriptions: 'Link Cài Trực Tiếp Ngày 08/05/2026'
+    },{ 
+        name: '<strong><em>Delta VNG IOS ?</em></strong>',
+        url: 'https://sub2s.com/1777786929',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
+        descriptions: 'Link Cài Trực Tiếp Ngày 08/05/2026'
+    },
 // APP DATA CONFIGURATION
 
 const apps = [

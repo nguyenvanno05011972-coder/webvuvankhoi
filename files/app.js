@@ -2,10 +2,15 @@
 
 const apps = [
 { 
+        name: '<strong><em>Geometry Dash PE IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1778596469',
+        img: 'https://sf-static.upanhlaylink.com/img/image_2026051267e7fcfdc0840fd3a1ded82a70f1d231.jpg',
+        descriptions: 'Link Cài Trực Tiếp Update Ngày 12/05/2026'
+    },{ 
         name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
         url: 'https://sub2s.com/1778541846',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.720Update Ngày 12/05/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.720 Update Ngày 12/05/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS ✅</em></strong>',
         url: 'https://sub2s.com/1778541846',

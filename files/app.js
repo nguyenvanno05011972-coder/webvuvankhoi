@@ -23,7 +23,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.721 Update Ngày 23/05/2026'
     },{ 
         name: '<strong><em>HACK PUBG MOBILE IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1778909474',
+        url: 'https://ipas.cc/5ie46k',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260429379c41d9aaf4a816c969e28bac3e2660.jpg',
         descriptions: 'Link Cài Trực Tiếp - Update Ngày 23/05/2026'
     },{ 

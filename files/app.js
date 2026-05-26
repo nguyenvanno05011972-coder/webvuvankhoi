@@ -1,7 +1,17 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{
+{ 
+        name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
+        url: 'https://ipas.cc/fji7up',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.721 Update Ngày 27/05/2026'
+    },{ 
+        name: '<strong><em>Delta VNG IOS Bản Gốc ✅</em></strong>',
+        url: 'https://ipas.cc/n2wx4x',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.721 Update Ngày 27/05/2026'
+    },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
         url: 'https://ipas.cc/bzg4ug',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
@@ -21,16 +31,6 @@ const apps = [
         url: 'https://nhapcode1s.com/nb1VsH0',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 23/05/2026'
-    },{ 
-        name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
-        url: 'https://sub2s.com/1778541846',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.721 Update Ngày 23/05/2026'
-    },{ 
-        name: '<strong><em>Delta VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://sub2s.com/1778541846',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.721 Update Ngày 23/05/2026'
     },{ 
         name: '<strong><em>HACK PUBG MOBILE IOS ✅</em></strong>',
         url: 'https://ipas.cc/5ie46k',

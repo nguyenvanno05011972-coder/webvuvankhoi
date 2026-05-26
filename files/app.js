@@ -6,6 +6,11 @@ const apps = [
         url: 'https://ipas.cc/0m576o',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.721 Update Ngày 27/05/2026'
+    },{ 
+        name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
+        url: 'https://ipas.cc/fji7up',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.721 Update Ngày 27/05/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
         url: 'https://ipas.cc/bzg4ug',
@@ -66,11 +71,6 @@ const apps = [
         url: 'https://tinyurl.com/5n89szmn',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251124601ed18d590b063f9cfac260dc055130.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.716 UPDTAE Ngày 19/04/2026'
-    },{ 
-        name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
-        url: 'https://ipas.cc/fji7up',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.721 Update Ngày 27/05/2026'
     },{
         name: '<strong><em>Troll Store X ✅</em></strong>',
         url: 'https://sub2s.com/1768219539',

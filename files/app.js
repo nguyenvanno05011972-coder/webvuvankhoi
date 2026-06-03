@@ -3,12 +3,12 @@
 const apps = [
 { 
         name: '<strong><em>Delta VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://ipas.cc/2zut3l',
+        url: 'https://ipas.cc/keofb5',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.723 Update Ngày 03/06/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
-        url: 'https://ipas.cc/kavze1',
+        url: 'https://ipas.cc/7asch0',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.723 Update Ngày 03/06/2026'
     },{

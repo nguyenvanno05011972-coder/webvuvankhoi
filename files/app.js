@@ -18,7 +18,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 11/06/2026'
     },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1780703644',
+        url: 'https://tinyurl.com/m2x57py8',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 11/06/2026'
     },{

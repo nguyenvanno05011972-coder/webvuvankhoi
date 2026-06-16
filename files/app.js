@@ -5,12 +5,12 @@ const apps = [
         name: '<strong><em>Delta VNG IOS Bản Gốc ✅</em></strong>',
         url: 'https://ipas.cc/xa07gi',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.724 Update Ngày 16/06/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.725 Update Ngày 16/06/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
         url: 'https://ipas.cc/l8ng37',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.724 Update Ngày 16/06/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.725 Update Ngày 16/06/2026'
     },{
         name: '<strong><em> Minecraft PE V1.26.21 IOS ✅</em></strong>',
         url: 'https://ipas.cc/21nz0r',

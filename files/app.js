@@ -1,14 +1,9 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{
-        name: '<strong><em> Minecraft PE V1.26.21 IOS ✅</em></strong>',
-        url: 'https://ipas.cc/21nz0r',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 15/06/2026'
-    },{ 
+{ 
         name: '<strong><em>Delta VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://tinyurl.com/yba9az2w',
+        url: 'https://ipas.cc/xa07gi',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.724 Update Ngày 15/06/2026'
     },{ 
@@ -16,6 +11,11 @@ const apps = [
         url: 'https://ipas.cc/l8ng37',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.724 Update Ngày 15/06/2026'
+    },{
+        name: '<strong><em> Minecraft PE V1.26.21 IOS ✅</em></strong>',
+        url: 'https://ipas.cc/21nz0r',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 15/06/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
         url: 'https://tinyurl.com/57n8r5b5',

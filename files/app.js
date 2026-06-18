@@ -23,7 +23,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 18/06/2026'
     },{
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
-        url: 'https://ipas.cc/355m3i',
+        url: 'https://ipas.cc/54a1bn',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 18/06/2026'
     },{ 
@@ -33,9 +33,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp - Update Ngày 18/06/2026'
     },{ 
         name: '<strong><em>Geometry Dash PE IOS ✅</em></strong>',
-        url: 'https://ipas.cc/sa8rxl',
+        url: 'https://ipas.cc/g1ern7',
         img: 'https://sf-static.upanhlaylink.com/img/image_2026051267e7fcfdc0840fd3a1ded82a70f1d231.jpg',
-        descriptions: 'Link Cài Trực Tiếp Update Ngày 17/06/2026'
+        descriptions: 'Link Cài Trực Tiếp Update Ngày 18/06/2026'
     },{ 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://sub2s.com/1778492315',

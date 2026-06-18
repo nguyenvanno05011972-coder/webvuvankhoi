@@ -25,12 +25,12 @@ const apps = [
         name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
         url: 'https://ipas.cc/355m3i',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/06/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 18/06/2026'
     },{ 
         name: '<strong><em>HACK Play Togetther IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/ptgvng',
+        url: 'https://ipas.cc/tpmu12',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260617bbac32ad2b55ffd53df37d282caaffeb.jpg',
-        descriptions: 'Link Cài Trực Tiếp - Update Ngày 17/06/2026'
+        descriptions: 'Link Cài Trực Tiếp - Update Ngày 18/06/2026'
     },{ 
         name: '<strong><em>Geometry Dash PE IOS ✅</em></strong>',
         url: 'https://ipas.cc/sa8rxl',

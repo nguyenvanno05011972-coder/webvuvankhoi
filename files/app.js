@@ -5,17 +5,17 @@ const apps = [
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://ipas.cc/7rspd0',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
-        descriptions: 'Link Cài Trực Tiếp -Update Ngày 21/06/2026'
+        descriptions: 'Link Cài Trực Tiếp -Update Ngày 23/06/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://ipas.cc/8bla8w',
+        url: 'https://ipas.cc/0fj6an',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.725 Update Ngày 21/06/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.725 Update Ngày 23/06/2026'
     },{ 
         name: '<strong><em>Delta VNG IOS Siêu Fix Lag ✅</em></strong>',
-        url: 'https://ipas.cc/o7ndg4',
+        url: 'https://ipas.cc/vb45en',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260326e0fe878aec5a52921e12b228e0bdfecd.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.725 Update Ngày 21/06/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.725 Update Ngày 23/06/2026'
     },{
         name: '<strong><em> Minecraft PE V1.26.21 IOS ✅</em></strong>',
         url: 'https://ipas.cc/1te7e6',

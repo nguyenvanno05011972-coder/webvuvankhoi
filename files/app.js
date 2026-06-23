@@ -3,7 +3,7 @@
 const apps = [
 { 
         name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
-        url: 'https://ipas.cc/7rspd0',
+        url: 'https://ipas.cc/123m1o',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
         descriptions: 'Link Cài Trực Tiếp -Update Ngày 23/06/2026'
     },{ 
@@ -20,7 +20,7 @@ const apps = [
         name: '<strong><em> Minecraft PE V1.26.21 IOS ✅</em></strong>',
         url: 'https://ipas.cc/5pb7pe',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 21/06/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 23/06/2026'
     },{
         name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
         url: 'https://ipas.cc/smlpny',

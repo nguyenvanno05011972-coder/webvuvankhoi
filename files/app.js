@@ -18,7 +18,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.725 Update Ngày 23/06/2026'
     },{
         name: '<strong><em> Minecraft PE V1.26.21 IOS ✅</em></strong>',
-        url: 'https://ipas.cc/1te7e6',
+        url: 'https://ipas.cc/5pb7pe',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 21/06/2026'
     },{

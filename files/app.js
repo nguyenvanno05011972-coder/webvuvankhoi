@@ -38,9 +38,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 21/06/2026'
     },{ 
         name: '<strong><em>Geometry Dash PE IOS ✅</em></strong>',
-        url: 'https://ipas.cc/g1ern7',
+        url: 'https://ipas.cc/7romch',
         img: 'https://sf-static.upanhlaylink.com/img/image_2026051267e7fcfdc0840fd3a1ded82a70f1d231.jpg',
-        descriptions: 'Link Cài Trực Tiếp Update Ngày 19/06/2026'
+        descriptions: 'Link Cài Trực Tiếp Update Ngày 25/06/2026'
     },{
         name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
         url: 'https://sub2s.com/1778492344',

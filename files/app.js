@@ -2,12 +2,12 @@
 
 const apps = [
 { 
-        name: '<strong><em>HACK Play Togetther IOS ✅</em></strong>',
+        name: '<strong><em>Play Togetther IOS ✅</em></strong>',
         url: 'https://ipas.cc/sriiof',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260617bbac32ad2b55ffd53df37d282caaffeb.jpg',
         descriptions: 'Link Cài Trực Tiếp - Update Ngày 25/06/2026'
     },{ 
-        name: '<strong><em>Hack 8 Ball Pool IOS ✅</em></strong>',
+        name: '<strong><em>8 Ball Pool IOS ✅</em></strong>',
         url: 'https://ipas.cc/123m1o',
         img: 'https://sf-static.upanhlaylink.com/img/image_202602045a9f22c74187cd7acdd7fa73103c4f3f.jpg',
         descriptions: 'Link Cài Trực Tiếp -Update Ngày 25/06/2026'
@@ -27,12 +27,12 @@ const apps = [
         img: 'https://sf-static.upanhlaylink.com/img/image_20260425de927ff2fe8af488befd188e2b45d2c8.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/06/2026'
     },{
-        name: '<strong><em> Hack Map + Unlock Skin IOS ✅</em></strong>',
+        name: '<strong><em> Liên Quân IOS ✅</em></strong>',
         url: 'https://ipas.cc/smlpny',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 25/06/2026'
     },{
-        name: '<strong><em> Menu Hack FF IOS ✅</em></strong>',
+        name: '<strong><em> FF IOS ✅</em></strong>',
         url: 'https://ipas.cc/54a1bn',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 21/06/2026'
@@ -41,22 +41,12 @@ const apps = [
         url: 'https://ipas.cc/7romch',
         img: 'https://sf-static.upanhlaylink.com/img/image_2026051267e7fcfdc0840fd3a1ded82a70f1d231.jpg',
         descriptions: 'Link Cài Trực Tiếp Update Ngày 25/06/2026'
-    },{
-        name: '<strong><em> Hack FC Mobile IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1778492344',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20260119097c8816e45539efda49e93ea5ecb159.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 11/05/2026'
     },{ 
         name: '<strong><em>HACK CFL MOBILE IOS ✅</em></strong>',
         url: 'https://sub2s.com/1777641975',
         img: 'https://sf-static.upanhlaylink.com/img/image_2026042910c2176070e8a50ade9fdd9eb23ff84e.jpg',
         descriptions: 'Link Cài Trực Tiếp -Update Ngày 02/05/2026'
-    },{
-        name: '<strong><em> Menu Hack Free Fire ANDROI ✅</em></strong>',
-        url: 'https://www.ngocbonggaming.com/2026/04/link-tai-hack-free-fire-androi-vip-menu.html',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
-        descriptions: 'Menu Full Chức Năng Cập Nhật Ngày 01/05/2026'
-    },{ 
+    },,{ 
         name: '<strong><em>Skibx VNG IOS Siêu Fix Lag ✅</em></strong>',
         url: 'https://tinyurl.com/3tf49ubz',
         img: 'https://sf-static.upanhlaylink.com/img/image_20260419f1541844f68b12fb180608c4d923f32e.jpg',

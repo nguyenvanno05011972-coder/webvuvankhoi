@@ -9,7 +9,7 @@ const apps = [
     },{ 
         name: '<strong><em>Delta X IOS Quốc Tế ✅</em></strong>',
         url: 'https://ipas.cc/my23ll',
-        img: 'https://ibb.co/vgtDxZR',
+        img: 'https://i.postimg.cc/W38YSZCD/1783077575726-541494777965378080-2631907376116522021-ee9b66260a9431c82f5bce787354198a.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Update Ngày 03/07/2026'
     },{
         name: '<strong><em> Liên Quân IOS ✅</em></strong>',

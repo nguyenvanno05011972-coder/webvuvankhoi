@@ -3,7 +3,7 @@
 const apps = [
 { 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://ipas.cc/1bhrh9',
+        url: 'https://tinyurl.com/yba9az2w',
         img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Update Ngày 03/07/2026'
     },{ 

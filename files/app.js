@@ -3,12 +3,12 @@
 const apps = [
 {
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/bddduknu',
+        url: 'https://ipas.cc/9doo8g',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 05/07/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1783232706',
+        url: '',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 05/07/2026'
     },{

@@ -6,22 +6,11 @@ const apps = [
         url: 'https://tinyurl.com/bddduknu',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 05/07/2026'
-    }
-        ,{
+    },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1783232706',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 05/07/2026'
-    },{ 
-        name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://tinyurl.com/yba9az2w',
-        img: 'https://sf-static.upanhlaylink.com/img/image_20251113ad21f5694d529e79bf61bff306fdd2f1.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Update Ngày 05/07/2026'
-    },{ 
-        name: '<strong><em>Delta X IOS Quốc Tế ✅</em></strong>',
-        url: 'https://tinyurl.com/mr3ty348',
-        img: 'https://i.postimg.cc/W38YSZCD/1783077575726-541494777965378080-2631907376116522021-ee9b66260a9431c82f5bce787354198a.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Update Ngày 05/07/2026'
     },{
         name: '<strong><em> Liên Quân IOS ✅</em></strong>',
         url: 'https://tinyurl.com/57n8r5b5',

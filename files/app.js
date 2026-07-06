@@ -11,6 +11,18 @@ const apps = [
         url: '',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 05/07/2026'
+    },{ 
+      
+        name: '<strong><em>Delta X VNG IOS ✅</em></strong>',
+        url: 'https://tinyurl.com/yba9az2w',
+        img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 06/07/2026'
+    },{
+        
+        name: '<strong><em>DELTA X IOS QUỐC TẾ✅</em></strong>',
+        url: 'https://tinyurl.com/mr3ty348',
+        img: 'https://i.postimg.cc/HsrVtRsb/IMG-4719.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 06/07/2026'
     },{
         name: '<strong><em> Liên Quân IOS ✅</em></strong>',
         url: 'https://tinyurl.com/57n8r5b5',
@@ -21,35 +33,6 @@ const apps = [
         url: 'https://www.ngocbonggaming.com/2026/05/link-tai-trong-video.html',
         img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 29/06/2026'
-    },{ 
-      
-        name: '<strong><em>KrnlVN Font Thường ✅</em></strong>',
-        url: 'https://sub2s.com/1767934591',
-        img: 'https://i.postimg.cc/B6ptwty4/5-DA6010-F-82-E9-46-E2-8870-794067574-ABE.jpg',
-        descriptions: 'Link Cài Trực Tiếp V698 Update Ngày 02/12/2025'
-    },{
-       
-      
-        name: '<strong><em>IPA DELTA X VNG IOS V2.702 ✅</em></strong>',
-        url: 'https://sub2s.com/1764644565',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 02/12/2025'
-    },{
-        name: '<strong><em>Codex VNG NO KEY ANDROI V701 ✅</em></strong>',
-        url: 'https://sub2s.com/1763789875',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 02/12/2025'
-    },{
-        name: '<strong><em>Fluxuz VNG ANDROI V701 ✅</em></strong>',
-        url: 'https://sub2s.com/1763799418',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 02/12/2025'
-    },
-      {
-        name: '<strong><em>DELTA X VNG ANDROI V2.702 ✅</em></strong>',
-        url: 'https://sub2s.com/1763861254',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202511046063dea8750bb9bfa463a5f879ee8aa4.jpg',
-        descriptions: 'Cập Nhật Ngày 02/12/2025'
     },
 ];
 

@@ -31,7 +31,7 @@ const apps = [
     },{
         name: '<strong><em> Proxy FF IOS ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2026/05/link-tai-trong-video.html',
-        img: 'https://sf-static.upanhlaylink.com/img/image_202512139629dca6ccd0fa07584c754bf9c9ec5b.jpg',
+        img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 29/06/2026'
     },
 ];

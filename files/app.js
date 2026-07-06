@@ -5,12 +5,12 @@ const apps = [
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
         url: 'https://ipas.cc/9doo8g',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 05/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 06/07/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: '',
+        url: 'https://funlink.io/PyqvVNi',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 05/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 06/07/2026'
     },{ 
       
         name: '<strong><em>Delta X VNG IOS ✅</em></strong>',

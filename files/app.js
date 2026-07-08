@@ -32,7 +32,7 @@ const apps = [
         name: '<strong><em>DELTA X QUỐC TẾ IOS✅</em></strong>',
         url: 'https://tinyurl.com/mr3ty348',
         img: 'https://i.postimg.cc/HsrVtRsb/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 06/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 08/07/2026'
     },
 ];
 

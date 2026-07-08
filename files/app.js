@@ -10,7 +10,7 @@ const apps = [
     },{
         
         name: '<strong><em>DELTA X VNG IOS FIXLAG✅</em></strong>',
-        url: 'https://ipas.cc/i7vbj4',
+        url: 'https://ipas.cc/7v30sg',
         img: 'https://i.postimg.cc/R0Ny7BG6/IMG-3417.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 08/07/2026'
     },{

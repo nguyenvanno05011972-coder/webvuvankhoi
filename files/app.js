@@ -3,7 +3,7 @@
 const apps = [
 {
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
-        url: 'https://ipas.cc/vvnx2t',
+        url: 'https://ipas.cc/3v15e7',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 08/07/2026'
     },{
@@ -13,24 +13,24 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
     },{
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
-        url: 'https://ipas.cc/9doo8g',
+        url: 'https://ipas.cc/wd1ery',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: 'https://funlink.io/PyqvVNi',
+        url: 'https://ipas.cc/pb8ms8',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
     },{ 
       
         name: '<strong><em>Delta X VNG IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/yba9az2w',
+        url: 'https://ipas.cc/1bhrh9',
         img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 08/07/2026'
     },{
         
         name: '<strong><em>DELTA X QUỐC TẾ IOS✅</em></strong>',
-        url: 'https://tinyurl.com/mr3ty348',
+        url: 'https://ipas.cc/my23ll',
         img: 'https://i.postimg.cc/HsrVtRsb/IMG-4719.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 08/07/2026'
     },

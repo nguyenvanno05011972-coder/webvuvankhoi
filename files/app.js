@@ -1,7 +1,19 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{
+{ 
+      
+        name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
+        url: 'https://ipas.cc/72pnjz',
+        img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 08/07/2026'
+    },{
+        
+        name: '<strong><em>DELTA X VNG IOS FIXLAG✅</em></strong>',
+        url: 'https://ipas.cc/i7vbj4',
+        img: 'https://i.postimg.cc/R0Ny7BG6/IMG-3417.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 08/07/2026'
+    },{
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
         url: 'https://ipas.cc/3v15e7',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
@@ -21,18 +33,6 @@ const apps = [
         url: 'https://ipas.cc/pb8ms8',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
-    },{ 
-      
-        name: '<strong><em>Delta X VNG IOS ✅</em></strong>',
-        url: 'https://ipas.cc/1bhrh9',
-        img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 08/07/2026'
-    },{
-        
-        name: '<strong><em>DELTA X QUỐC TẾ IOS✅</em></strong>',
-        url: 'https://ipas.cc/my23ll',
-        img: 'https://i.postimg.cc/HsrVtRsb/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 08/07/2026'
     },
 ];
 

@@ -2,37 +2,37 @@
 
 const apps = [
 {
+        name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
+        url: 'ttps://sub2s.com/1783497864',
+        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 08/07/2026'
+    },{
+        name: '<strong><em> Proxy FF IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1780545960',
+        img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
+    },{
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
         url: 'https://ipas.cc/9doo8g',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 06/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://funlink.io/PyqvVNi',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 06/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
     },{ 
       
         name: '<strong><em>Delta X VNG IOS ✅</em></strong>',
         url: 'https://tinyurl.com/yba9az2w',
         img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 06/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 08/07/2026'
     },{
         
         name: '<strong><em>DELTA X QUỐC TẾ IOS✅</em></strong>',
         url: 'https://tinyurl.com/mr3ty348',
         img: 'https://i.postimg.cc/HsrVtRsb/IMG-4719.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 06/07/2026'
-    },{
-        name: '<strong><em> Liên Quân IOS ✅</em></strong>',
-        url: 'https://tinyurl.com/57n8r5b5',
-        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 29/06/2026'
-    },{
-        name: '<strong><em> Proxy FF IOS ✅</em></strong>',
-        url: 'https://www.ngocbonggaming.com/2026/05/link-tai-trong-video.html',
-        img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 29/06/2026'
     },
 ];
 

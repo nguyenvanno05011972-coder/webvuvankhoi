@@ -27,12 +27,12 @@ const apps = [
         name: '<strong><em> Proxy FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1780545960',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 09/07/2026'
     },{
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
-        url: 'https://ipas.cc/wd1ery',
+        url: 'https://ipas.cc/6ruagv',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 09/07/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://ipas.cc/zaanew',

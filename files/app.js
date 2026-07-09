@@ -35,9 +35,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: 'https://ipas.cc/pb8ms8',
+        url: 'https://ipas.cc/zaanew',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 09/07/2026'
     },
 ];
 

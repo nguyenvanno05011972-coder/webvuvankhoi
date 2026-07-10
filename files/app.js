@@ -4,9 +4,9 @@ const apps = [
 { 
       
         name: '<strong><em>Delta X VNG IOS ✅</em></strong>',
-        url: 'https://ipas.cc/g09ur8',
+        url: 'https://ipas.cc/4ydxvo',
         img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 10/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 11/07/2026'
     },{ 
         name: '<strong><em>DELTA X IOS QUỐC TẾ✅</em></strong>',
         url: 'https://ipas.cc/bdwd7h',

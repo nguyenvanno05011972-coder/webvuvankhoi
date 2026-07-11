@@ -28,7 +28,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 11/07/2026'
     },{
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
-        url: 'https://ipas.cc/6ruagv',
+        url: 'https://ipas.cc/wxud2s',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 11/07/2026'
     },

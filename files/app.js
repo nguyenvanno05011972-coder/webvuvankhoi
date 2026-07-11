@@ -6,6 +6,11 @@ const apps = [
         url: 'https://ipas.cc/d2hcjw',
         img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 12/07/2026'
+    },{ 
+        name: '<strong><em>Delta X QT IOS ✅</em></strong>',
+        url: 'https://ipas.cc/l84paf',
+        img: 'https://i.postimg.cc/9fyLf57W/IMG-4719.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 12/07/2026'
     },{
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
         url: 'https://ipas.cc/9it9i7',

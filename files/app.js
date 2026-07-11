@@ -1,16 +1,21 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{
-        name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: 'https://ipas.cc/rihvsw',
-        img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 11/07/2026'
-    },{ 
+{ 
         name: '<strong><em>Delta X VNG IOS ✅</em></strong>',
         url: 'https://ipas.cc/d2hcjw',
         img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 11/07/2026'
+    },{ 
+        name: '<strong><em>Delta X QT IOS ✅</em></strong>',
+        url: 'https://ipas.cc/vvadk8',
+        img: 'https://i.postimg.cc/9fyLf57W/IMG-4719.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 11/07/2026'
+    },{
+        name: '<strong><em> MENU FF IOS ✅</em></strong>',
+        url: 'https://ipas.cc/rihvsw',
+        img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 11/07/2026'
     },{
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
         url: 'https://ipas.cc/702rwl',

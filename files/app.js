@@ -4,19 +4,14 @@ const apps = [
 { 
       
         name: '<strong><em>Delta X VNG IOS ✅</em></strong>',
-        url: 'https://ipas.cc/702rwl',
+        url: 'https://ipas.cc/d2hcjw',
         img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 11/07/2026'
-    },{ 
-        name: '<strong><em>DELTA X IOS QUỐC TẾ✅</em></strong>',
-        url: 'https://ipas.cc/bdwd7h',
-        img: 'https://i.postimg.cc/wjzFZ6FJ/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 10/07/2026'
     },{
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
-        url: 'https://ipas.cc/lvupbg',
+        url: 'https://ipas.cc/702rwl',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 10/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 11/07/2026'
     },{
         name: '<strong><em> MENU 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://ipas.cc/2ff15k',

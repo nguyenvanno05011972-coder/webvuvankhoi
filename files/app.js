@@ -7,13 +7,8 @@ const apps = [
         img: 'https://i.postimg.cc/zBDfHPcR/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 12/07/2026'
     },{ 
-        name: '<strong><em>Delta X VNG IOS FIX LAG ✅</em></strong>',
-        url: 'https://ipas.cc/88cbsy',
-        img: 'https://i.postimg.cc/9FFpRn7d/IMG-3417.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 12/07/2026'
-    },{ 
         name: '<strong><em>Delta X QT IOS ✅</em></strong>',
-        url: 'https://ipas.cc/l84paf',
+        url: 'https://ipas.cc/o37au6',
         img: 'https://i.postimg.cc/9fyLf57W/IMG-4719.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 12/07/2026'
     },{

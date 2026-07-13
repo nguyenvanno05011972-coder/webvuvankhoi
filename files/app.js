@@ -8,7 +8,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 13/07/2026'
     },{ 
         name: '<strong><em>Delta X VNG IOS Fix Lag ✅</em></strong>',
-        url: 'https://ipas.cc/txw6fa',
+        url: 'https://ipas.cc/zkyffk',
         img: 'https://i.postimg.cc/pXQNsVQs/IMG-3417.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 13/07/2026'
     },{ 

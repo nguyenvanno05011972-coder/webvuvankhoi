@@ -1,7 +1,12 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{ 
+{
+        name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
+        url: 'https://ipas.cc/64ndia',
+        img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/07/2026'
+    },{ 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
         url: 'https://ipas.cc/nhfqg7',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
@@ -35,11 +40,6 @@ const apps = [
         name: '<strong><em> Proxy FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1780545960',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 12/07/2026'
-    },{
-        name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
-        url: 'https://ipas.cc/kx72rv',
-        img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 12/07/2026'
     },
 ];

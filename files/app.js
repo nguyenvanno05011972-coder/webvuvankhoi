@@ -3,7 +3,7 @@
 const apps = [
 {
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
-        url: 'https://ipas.cc/64ndia',
+        url: 'https://ipas.cc/3jb6h7',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/07/2026'
     },{ 

@@ -3,7 +3,7 @@
 const apps = [
 { 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://ipas.cc/qgmwwq',
+        url: 'https://www.ngocbonggaming.com/2026/07/link-tai-delta-x-vng-ios-moi-nhat.html',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 19/07/2026'
     },{ 

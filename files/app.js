@@ -1,7 +1,17 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{
+{ 
+        name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
+        url: 'https://tinyurl.com/yba9az2w',
+        img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 22/07/2026'
+    },{ 
+        name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
+        url: 'https://ipas.cc/5gxdmp',
+        img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 22/07/2026'
+    },{
         name: '<strong><em> MENU 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://ipas.cc/ymcfkg',
         img: 'https://i.postimg.cc/Hxv3Pj2b/1783586272519-541494777965378080-584700966525922238-0b82b24f9f0cc544305843cc7a24dc0d.jpg',
@@ -11,16 +21,6 @@ const apps = [
         url: 'https://ipas.cc/gx3y4k',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 22/07/2026'
-    },{ 
-        name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://ipas.cc/g15fmx',
-        img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 22/07/2026'
-    },{ 
-        name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
-        url: 'https://ipas.cc/5gxdmp',
-        img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 22/07/2026'
     },{
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
         url: 'https://testflight.apple.com/join/AyEMdCUz',

@@ -2,14 +2,14 @@
 
 const apps = [
 { 
+        name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
+        url: 'https://funlink.io/OD_PzI-',
+        img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 23/07/2026'
+    },{ 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
         url: 'https://tinyurl.com/yba9az2w',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 22/07/2026'
-    },{ 
-        name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
-        url: 'https://ipas.cc/5svnmb',
-        img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 22/07/2026'
     },{
         name: '<strong><em> MENU 8 Ball Pool IOS ✅</em></strong>',

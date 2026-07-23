@@ -3,9 +3,9 @@
 const apps = [
 { 
         name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
-        url: 'https://funlink.io/OD_PzI-',
+        url: 'https://funlink.io/_HSPMpN',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 23/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 24/07/2026'
     },{ 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
         url: 'https://tinyurl.com/yba9az2w',

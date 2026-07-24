@@ -3,7 +3,7 @@
 const apps = [
 { 
         name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
-        url: 'https://funlink.io/_HSPMpN',
+        url: 'https://api.sub2s.com/key/deltaqtios',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 24/07/2026'
     },{ 

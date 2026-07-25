@@ -1,14 +1,9 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{
-        name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
-        url: 'https://ipas.cc/5f01ar',
-        img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/07/2026'
-    },{ 
+{ 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://ipas.cc/51azl4',
+        url: 'https://www.ngocbonggaming.com/2026/07/link-tai-delta-x-vng-ios-moi-nhat.html',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 25/07/2026'
     },{ 
@@ -16,6 +11,11 @@ const apps = [
         url: 'https://ipas.cc/4nkp7u',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 25/07/2026'
+    },{
+        name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
+        url: 'https://ipas.cc/5f01ar',
+        img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/07/2026'
     },{
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
         url: 'https://ipas.cc/1r3922',

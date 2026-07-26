@@ -5,7 +5,7 @@ const apps = [
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://ipas.cc/55j927',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 13/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 26/07/2026'
     },{ 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2026/07/link-tai-delta-x-vng-ios-moi-nhat.html',

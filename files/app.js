@@ -3,7 +3,7 @@
 const apps = [
 {
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: 'https://ipas.cc/55j927',
+        url: 'https://sub2s.com/1785053328',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 26/07/2026'
     },{ 

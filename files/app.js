@@ -1,21 +1,26 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{
-        name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1785053328',
-        img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 26/07/2026'
-    },{ 
+{ 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2026/07/link-tai-delta-x-vng-ios-moi-nhat.html',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.730 Cập Nhật Ngày 25/07/2026'
     },{ 
+        name: '<strong><em>Delta X VNG IOS Fix Lag ✅</em></strong>',
+        url: 'https://sub2s.com/1785057275',
+        img: 'https://i.postimg.cc/pXQNsVQs/IMG-3417.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 17/07/2026'
+    },{ 
         name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
         url: 'https://ipas.cc/4nkp7u',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.730 Cập Nhật Ngày 25/07/2026'
+    },{
+        name: '<strong><em> MENU FF IOS ✅</em></strong>',
+        url: 'https://sub2s.com/1785053328',
+        img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 26/07/2026'
     },{
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
         url: 'https://ipas.cc/5f01ar',
@@ -31,11 +36,6 @@ const apps = [
         url: 'https://ipas.cc/1w15ve',
         img: 'https://i.postimg.cc/Hxv3Pj2b/1783586272519-541494777965378080-584700966525922238-0b82b24f9f0cc544305843cc7a24dc0d.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/07/2026'
-    },{ 
-        name: '<strong><em>Delta X VNG IOS Fix Lag ✅</em></strong>',
-        url: 'https://ipas.cc/zgj15z',
-        img: 'https://i.postimg.cc/pXQNsVQs/IMG-3417.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 17/07/2026'
     },{
         name: '<strong><em> Proxy FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1780545960',

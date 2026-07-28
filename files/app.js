@@ -13,7 +13,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 28/07/2026'
     },{ 
         name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
-        url: 'https://sub2s.com/1785066336',
+        url: 'https://sub2s.com/1785207240',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 28/07/2026'
     },{ 

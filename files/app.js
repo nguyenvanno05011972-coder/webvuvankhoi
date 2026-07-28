@@ -25,22 +25,22 @@ const apps = [
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
         url: 'https://sub2s.com/1785066276',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 26/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 28/07/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1785053328',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 26/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 28/07/2026'
     },{
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
         url: 'https://sub2s.com/1785066359',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 26/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 28/07/2026'
     },{
         name: '<strong><em> MENU 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://sub2s.com/1785066381',
         img: 'https://i.postimg.cc/Hxv3Pj2b/1783586272519-541494777965378080-584700966525922238-0b82b24f9f0cc544305843cc7a24dc0d.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 25/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 28/07/2026'
     },{
         name: '<strong><em> Proxy FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1780545960',

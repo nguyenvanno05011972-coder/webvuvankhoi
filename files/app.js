@@ -5,22 +5,22 @@ const apps = [
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2026/07/link-tai-delta-x-vng-ios-moi-nhat.html',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.730 Cập Nhật Ngày 27/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 28/07/2026'
     },{ 
         name: '<strong><em>Delta X VNG IOS Fix Lag ✅</em></strong>',
         url: 'https://sub2s.com/1785057275',
         img: 'https://i.postimg.cc/pXQNsVQs/IMG-3417.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.727 Cập Nhật Ngày 27/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 28/07/2026'
     },{ 
         name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
         url: 'https://sub2s.com/1785066336',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.730 Cập Nhật Ngày 27/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 28/07/2026'
     },{ 
         name: '<strong><em>Delta X Quốc Tế IOS Fix Lag  ✅</em></strong>',
         url: 'https://sub2s.com/1785126981',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.730 Cập Nhật Ngày 27/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 28/07/2026'
     },{
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
         url: 'https://sub2s.com/1785066276',

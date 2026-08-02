@@ -3,34 +3,34 @@
 const apps = [
 {
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
-        url: 'https://testflight.apple.com/join/2Yzp7NMW',
+        url: 'https://ipas.cc/q2mz7r',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 31/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 02/08/2026'
     },{
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
         url: 'https://sub2s.com/1785382538',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 30/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 02/08/2026'
     },{ 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
         url: 'https://www.ngocbonggaming.com/2026/07/link-tai-delta-x-vng-ios-moi-nhat.html',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 30/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 02/08/2026'
     },{ 
         name: '<strong><em>Delta X VNG IOS Fix Lag ✅</em></strong>',
         url: 'https://sub2s.com/1785057275',
         img: 'https://i.postimg.cc/pXQNsVQs/IMG-3417.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 30/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 02/08/2026'
     },{ 
         name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
         url: 'https://sub2s.com/1785207240',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 30/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 02/08/2026'
     },{ 
         name: '<strong><em>Delta X Quốc Tế IOS Fix Lag  ✅</em></strong>',
         url: 'https://sub2s.com/1785126981',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 30/07/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 02/08/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1785053328',

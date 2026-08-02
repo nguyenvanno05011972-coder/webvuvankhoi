@@ -33,9 +33,9 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 02/08/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1785053328',
+        url: 'https://sub2s.com/1785659897',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 28/07/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 02/08/2026'
     },{
         name: '<strong><em> MENU 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://sub2s.com/1785066381',

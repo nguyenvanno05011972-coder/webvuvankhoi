@@ -13,7 +13,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 05/08/2026'
     },{ 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
-        url: 'https://sub2s.com/1785930474',
+        url: 'https://ipas.cc/yqq205',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 05/08/2026'
     },{ 

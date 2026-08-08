@@ -3,7 +3,7 @@
 const apps = [
 {
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: 'https://sub2s.com/1786150994',
+        url: 'https://sub2sunlock.blogspot.com/2026/05/link-tai-trong-video.html',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/08/2026'
     },{

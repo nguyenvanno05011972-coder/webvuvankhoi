@@ -5,7 +5,7 @@ const apps = [
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://sub2sunlock.blogspot.com/2026/05/link-tai-trong-video.html',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 08/08/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 09/08/2026'
     },{
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
         url: 'https://ipas.cc/6nec04',

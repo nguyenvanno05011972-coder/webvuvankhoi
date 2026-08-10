@@ -1,7 +1,12 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{
+{ 
+        name: '<strong><em>Delta X VNG/QT ANDROI  ✅</em></strong>',
+        url: 'https://sub2sunlock.blogspot.com/2025/08/link-tai-delta-vng-androi-moi-nhat.html',
+        img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 11/08/2026'
+    },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://sub2sunlock.blogspot.com/2026/05/link-tai-trong-video.html',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',

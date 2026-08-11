@@ -2,8 +2,13 @@
 
 const apps = [
 { 
-        name: '<strong><em>Delta X VNG/QT ANDROI  ✅</em></strong>',
-        url: 'https://sub2sunlock.blogspot.com/2025/08/link-tai-delta-vng-androi-moi-nhat.html',
+        name: '<strong><em>Delta X VNG/QT ANDROI✅</em></strong>',
+        url: 'https://vuvankhoi.com.vn/',
+        img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 11/08/2026'
+    },{ 
+        name: '<strong><em>Delta X VNG/QT IOS ✅</em></strong>',
+        url: 'https://ngocbonggaming.com/',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
         descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 11/08/2026'
     },{

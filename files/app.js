@@ -2,10 +2,15 @@
 
 const apps = [
 {
+        name: '<strong><em> App Cài Data FF 3105 ✅</em></strong>',
+        url: 'https://ipas.cc/eu5zrr',
+        img: 'https://sf-static.upanhlaylink.com/img/image_20260819dd0b4179f773b4c91a236b9f4362cbb0.jpg',
+        descriptions: 'Link Cài Trực Tiếp App 3105 Cập Nhật Ngày 19/08/2026'
+    },{
         name: '<strong><em> MENU Liên Quân IOS ✅</em></strong>',
         url: 'https://ipas.cc/gwjqmr',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 17/08/2026'
+        descriptions: 'Link Cài Trực Tiếp Hack Map LQ Cập Nhật Ngày 19/08/2026'
     },{
         name: '<strong><em> MENU 8 Ball Pool IOS ✅</em></strong>',
         url: 'https://tinyurl.com/uy6p26dz',
@@ -15,37 +20,37 @@ const apps = [
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://ipas.cc/2bwnw7',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/08/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 19/08/2026'
     },{
         name: '<strong><em> Minecraft PE IOS ✅</em></strong>',
         url: 'https://ipas.cc/ksgo1z',
         img: 'https://i.postimg.cc/Y05W9Pv8/IMG-4773.png',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/08/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 19/08/2026'
     },{ 
         name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
         url: 'https://tinyurl.com/4fdn9w8u',
         img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 17/08/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 19/08/2026'
     },{ 
         name: '<strong><em>Delta X VNG IOS Fix Lag ✅</em></strong>',
         url: 'https://tinyurl.com/yba9az2w',
         img: 'https://i.postimg.cc/pXQNsVQs/IMG-3417.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 17/08/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 19/08/2026'
     },{ 
         name: '<strong><em>Delta X Quốc Tế IOS  ✅</em></strong>',
         url: 'https://tinyurl.com/5n68drmk',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 17/08/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 19/08/2026'
     },{ 
         name: '<strong><em>Delta X Quốc Tế IOS Fix Lag  ✅</em></strong>',
         url: 'https://tinyurl.com/mr3ty348',
         img: 'https://i.postimg.cc/wMkzwh26/IMG-4719.jpg',
-        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 17/08/2026'
+        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 19/08/2026'
     },{
         name: '<strong><em> Proxy FF IOS ✅</em></strong>',
         url: 'https://sub2s.com/1780545960',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
-        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 17/08/2026'
+        descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 19/08/2026'
     },
 ];
 
